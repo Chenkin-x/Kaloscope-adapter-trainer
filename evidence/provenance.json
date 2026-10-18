@@ -1,0 +1,165 @@
+[
+  {
+    "artifact": "evidence/architecture.json",
+    "source": "research/kaloscope3/krea2_all_injection_20261008/evidence/derived_summary.json",
+    "source_sha256": "b702179b3e2f1794b9990a352c383a059ea5d85081a65ce53b2903f5e38f25af",
+    "packaged_sha256": "c82dc16526987aa553af69bd1110042fa95efcc05f132817dc3041a3e3969151",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/zeroshot_comparison.json",
+    "source": "research/kaloscope3/krea2_zeroshot_20261008/comparison.json",
+    "source_sha256": "674e1be55ec77e7d6471491969f16c0ee6b4e72f1ab3baab347701a0eb798b4a",
+    "packaged_sha256": "674e1be55ec77e7d6471491969f16c0ee6b4e72f1ab3baab347701a0eb798b4a",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/z3_tuning.json",
+    "source": "research/kaloscope3/z3_tuning_20261008/comparison.json",
+    "source_sha256": "137b99783f8d6caa6b35a8c1895bd9fbcabc9ab67e664240fedd1efc73953b69",
+    "packaged_sha256": "137b99783f8d6caa6b35a8c1895bd9fbcabc9ab67e664240fedd1efc73953b69",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/z3c_metrics.json",
+    "source": "research/kaloscope3/krea2_patch_concat_20261009/evidence/z3_completion_metrics.json",
+    "source_sha256": "61a08e3a78798baae1fade88519ee7c795ea36017d3d2f07ae8d0ec024dd82c1",
+    "packaged_sha256": "61a08e3a78798baae1fade88519ee7c795ea36017d3d2f07ae8d0ec024dd82c1",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/full_config.json",
+    "source": "research/kaloscope3/krea2_z3_full_20261009/config.json",
+    "source_sha256": "a51d0617ebf6d2897beafac2dc31a6b1627a6ae7ffa5fcb7c85312f56c360bf4",
+    "packaged_sha256": "6f77e50b2d8d66f0ad8df1aa952e678b04d138258f56836524f865f882db143d",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/multires_config.json",
+    "source": "research/kaloscope3/krea2_z3_multires_20261010/config.json",
+    "source_sha256": "67201d00a8f3535dc6cca6b0b6e49bb893ed86cbf4cd00baadebc6f141337501",
+    "packaged_sha256": "509f0a0cbe87b80ff1bdeb1a94443299f8ffd024ed40fb2f8960005db004875c",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/eval_v2.json",
+    "source": "research/kaloscope3/krea2_z3_multires_20261010/evidence/eval_v2/report.json",
+    "source_sha256": "d97d59ac578da0a0ff57f9631a6f508ba219384bbf6792d5b20631b183a224f3",
+    "packaged_sha256": "8425a542d7a6462591c7dc085d2e1fba62f9961fa2ce25fd9781bce0608c996a",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/moss_diagnosis.json",
+    "source": "research/kaloscope3/moss_z3_diagnosis_20261017/evidence/summary.json",
+    "source_sha256": "3763bcf60660fbeaebf2b204b10526bc02d39bdcb9aec27045ad78adb4126cd3",
+    "packaged_sha256": "3763bcf60660fbeaebf2b204b10526bc02d39bdcb9aec27045ad78adb4126cd3",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/moss_launch.json",
+    "source": "research/kaloscope3/moss_z3_full_20261017/evidence/launch_verified.json",
+    "source_sha256": "c779302e5a3ef426236e847ca5cbea49a9fe1acd9c6cac8544881d8eaba96b4c",
+    "packaged_sha256": "c779302e5a3ef426236e847ca5cbea49a9fe1acd9c6cac8544881d8eaba96b4c",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/moss_baseline.json",
+    "source": "research/kaloscope3/moss_z3_full_20261017/evidence/run/validation/stage0_step00000000/metrics.json",
+    "source_sha256": "2264ed62c09c674e634424c5262ccb0a5b1921a4034f2565c203595030135a7c",
+    "packaged_sha256": "2264ed62c09c674e634424c5262ccb0a5b1921a4034f2565c203595030135a7c",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/Z0_evaluation.json",
+    "source": "research/kaloscope3/krea2_zeroshot_20261008/results/Z0/evaluation.json",
+    "source_sha256": "71aeb063cecd1f5c40c8aadf6225011b06484c4be187b19a9b853cf400a92319",
+    "packaged_sha256": "71aeb063cecd1f5c40c8aadf6225011b06484c4be187b19a9b853cf400a92319",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/Z0_config.json",
+    "source": "research/kaloscope3/krea2_zeroshot_20261008/configs/Z0.json",
+    "source_sha256": "e5d06771f68e9715e2f077ae5ff1f34da5a18dd8334829f46d4e212dd5a812de",
+    "packaged_sha256": "08ff09d4def883b0dcb88364ea9399aeb79f07578b4df9bd96e54a92e3c71af0",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/Z1_evaluation.json",
+    "source": "research/kaloscope3/krea2_zeroshot_20261008/results/Z1/evaluation.json",
+    "source_sha256": "fbd9317506d74f1e7dab4fe9142b6b35ba47bda239ab4b2bb85718cf9b6c932e",
+    "packaged_sha256": "fbd9317506d74f1e7dab4fe9142b6b35ba47bda239ab4b2bb85718cf9b6c932e",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/Z1_config.json",
+    "source": "research/kaloscope3/krea2_zeroshot_20261008/configs/Z1.json",
+    "source_sha256": "adfffb1b214280b8b9a49fced05e8759772e89c28d660a9b24a576fadc6aa21c",
+    "packaged_sha256": "9bcd7cd219f1670f04a3dde897d73b9f89634d2acf850dda4a96974876d16a04",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/Z2_evaluation.json",
+    "source": "research/kaloscope3/krea2_zeroshot_20261008/results/Z2/evaluation.json",
+    "source_sha256": "6f328d85fb347466229c4256256a07d98b72bc7d1a54755b2f99027fd405b976",
+    "packaged_sha256": "6f328d85fb347466229c4256256a07d98b72bc7d1a54755b2f99027fd405b976",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/Z2_config.json",
+    "source": "research/kaloscope3/krea2_zeroshot_20261008/configs/Z2.json",
+    "source_sha256": "907d0fbd17887ea5e746678df10e206f036c8c4287f066406f693a761ddf1127",
+    "packaged_sha256": "7f273b510979b45e953a5253f4974a6bfa2c3169973e9ce57d17ef2a04b8cfb8",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/Z3_evaluation.json",
+    "source": "research/kaloscope3/krea2_zeroshot_20261008/results/Z3/evaluation.json",
+    "source_sha256": "b13d1798387799c81c4045b4bc3e25a2fff363a91da170851556ed5c289ad336",
+    "packaged_sha256": "b13d1798387799c81c4045b4bc3e25a2fff363a91da170851556ed5c289ad336",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/Z3_config.json",
+    "source": "research/kaloscope3/krea2_zeroshot_20261008/configs/Z3.json",
+    "source_sha256": "235c179d909c0d43386f76d77e2e0d4be819e150f5cc7da2d5c16412460db4b0",
+    "packaged_sha256": "273fe2acbab7d4473d5dbe48c5608fef7369197e194326f1fc95d6e4675ba381",
+    "transformation": "Redacted private host and machine absolute paths; numerical measurements unchanged"
+  },
+  {
+    "artifact": "evidence/full_metrics.jsonl",
+    "source": "research/kaloscope3/krea2_z3_full_20261009/evidence/metrics.jsonl",
+    "source_sha256": "1d88cfc4cdfbbd658b3b13a9ca1a8ac1eacb19514fabd052281a2d9f0182e845",
+    "packaged_sha256": "1d88cfc4cdfbbd658b3b13a9ca1a8ac1eacb19514fabd052281a2d9f0182e845",
+    "transformation": "none"
+  },
+  {
+    "artifact": "src/kaloscope_style/adapter.py",
+    "source": "research/kaloscope3/krea2_ai0_lora_20261008/adapter.py",
+    "source_sha256": "950ee5ca062e7297b56f8ab5e1c2b7b611d07baa460c3821e446756248463e9f",
+    "transformation": "Package imports/device/config plumbing; compare source hash against original snapshot"
+  },
+  {
+    "artifact": "src/kaloscope_style/backends/krea2.py",
+    "source": "research/kaloscope3/krea2_ai0_lora_20261008/backend.py",
+    "source_sha256": "fc9117c536686b72e9fbaabf0a3c9db2f501ab4d308c127bde6f3c99f2090c95",
+    "transformation": "Package imports/device/config plumbing; compare source hash against original snapshot"
+  },
+  {
+    "artifact": "src/kaloscope_style/backends/moss.py",
+    "source": "research/kaloscope3/moss_z3_demo_20261017/backend.py",
+    "source_sha256": "fbfc2674a9a02096fa1bc2319a7c6a8173b7d8db73f5c0eb72be5192424d424c",
+    "transformation": "Package imports/device/config plumbing; compare source hash against original snapshot"
+  },
+  {
+    "artifact": "src/kaloscope_style/metrics.py",
+    "source": "research/kaloscope3/krea2_z3_multires_20261010/metrics_v2.py",
+    "source_sha256": "c9fe0eddac514c86a646611bf42c02d920915e8976f062b855224f99a914f5a8",
+    "transformation": "Package imports/device/config plumbing; compare source hash against original snapshot"
+  },
+  {
+    "artifact": "src/kaloscope_style/_vendor/moss.py",
+    "source": "MOSS-Image-Base/pipeline_moss_image.py",
+    "source_sha256": "1dac1aca9feb1bfdfc727a401e4b67d61a505d3190706d1b7d2d784f88678b31",
+    "transformation": "Package imports/device/config plumbing; compare source hash against original snapshot"
+  }
+]

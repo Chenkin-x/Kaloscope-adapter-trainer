@@ -1,0 +1,145 @@
+{
+  "protocol": "z3_balanced_csd_fixedfm_v2_20261012",
+  "historical_images": {
+    "evaluations": 10,
+    "images": 320,
+    "first_step": 26006,
+    "last_step": 35006,
+    "all_rescored": true
+  },
+  "expanded_evaluations": [
+    {
+      "step": 26006,
+      "csd_margin": 0.05669616170537969,
+      "csd_similarity": 0.5828428294043988,
+      "fm_relative": 0.992788603783303,
+      "condition_gain": 0.007211396216697016,
+      "correct_vs_shuffled": 0.003984521110994829,
+      "generation_cases": 192,
+      "fm_cases": 288,
+      "style_vs_26006": {
+        "mean": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "artists": 16,
+        "method": "paired artist-cluster percentile bootstrap; descriptive, not sequentially corrected"
+      },
+      "fm_vs_26006": {
+        "mean": 0.0,
+        "low": 0.0,
+        "high": 0.0,
+        "artists": 16,
+        "method": "paired artist-cluster percentile bootstrap; descriptive, not sequentially corrected"
+      }
+    },
+    {
+      "step": 35006,
+      "csd_margin": 0.06434653140604496,
+      "csd_similarity": 0.5768371558127304,
+      "fm_relative": 0.9915025122098897,
+      "condition_gain": 0.008497487790110269,
+      "correct_vs_shuffled": 0.004831195059090256,
+      "generation_cases": 192,
+      "fm_cases": 288,
+      "style_vs_26006": {
+        "mean": 0.0076503697006652755,
+        "low": 6.593825334372614e-05,
+        "high": 0.0172947780500787,
+        "artists": 16,
+        "method": "paired artist-cluster percentile bootstrap; descriptive, not sequentially corrected"
+      },
+      "fm_vs_26006": {
+        "mean": 0.001286091573413257,
+        "low": 0.0008847639410496089,
+        "high": 0.001693582970175787,
+        "artists": 16,
+        "method": "paired artist-cluster percentile bootstrap; descriptive, not sequentially corrected"
+      }
+    },
+    {
+      "step": 35733,
+      "csd_margin": 0.05929272264863054,
+      "csd_similarity": 0.5664572594687343,
+      "fm_relative": 0.991398560068076,
+      "condition_gain": 0.008601439931924096,
+      "correct_vs_shuffled": 0.004997786788413825,
+      "generation_cases": 192,
+      "fm_cases": 288,
+      "style_vs_26006": {
+        "mean": 0.0025965609432508545,
+        "low": -0.005112443633455163,
+        "high": 0.010058302100514992,
+        "artists": 16,
+        "method": "paired artist-cluster percentile bootstrap; descriptive, not sequentially corrected"
+      },
+      "fm_vs_26006": {
+        "mean": 0.0013900437152270823,
+        "low": 0.000988304022264351,
+        "high": 0.0018383102095551405,
+        "artists": 16,
+        "method": "paired artist-cluster percentile bootstrap; descriptive, not sequentially corrected"
+      }
+    }
+  ],
+  "scope": "16 artists excluded from full adapter training; no claim of unseen artists for the frozen encoders",
+  "limits": [
+    "Historical checkpoints without weights cannot receive new generation or FM measurements.",
+    "CSD sanity calibration passed; no human-preference calibration.",
+    "Bootstrap intervals are descriptive and not sequentially corrected.",
+    "Main panel uses three aspect buckets, not all seven training buckets."
+  ],
+  "migration": {
+    "passed": true,
+    "step": 35733,
+    "old_version": 1,
+    "new_version": 2,
+    "lr_before": 4.3716552411549615e-05,
+    "lr_after": 4.3716552411549615e-05,
+    "preserved_state_sha256": {
+      "trainable": "9a306b2759c994a51b97d3f42620202aff48e2e7be37107b629a2fd25dab7c68",
+      "optimizer": "d619f77267779bdf5767a88cb5a8a2eed40f11e7a75ebf3553814facbd18ab12",
+      "rng": "424ca81895ea935d47a7b199f799ca5d974408bfa4e19f956995808daa4e1357",
+      "corpus": "3c341b64dfd52907a8e11b8a2150f8de9c54648d0eaf8d71bd051fe886da9413",
+      "step": "e619189e646e32d1b5a74fb2013b62251cf098fa0ec4f1630b5436215ca1b37b",
+      "micro_by_area": "27fd429b0aaa48b8f8adb3e3722f484d03550942e2d3b319fc6570dcc108ad61",
+      "pending_eval": "60a33e6cf5151f2d52eddae9685cfa270426aa89d8dbc7dfb854606f1d1a40fe",
+      "cumulative_seconds": "b775202d1a8ff5e45b66ed3057b8720d32d2701bb916a42aba0efac0b0ed3af3"
+    },
+    "identity": {
+      "config_sha256": "0c35c51c096b66b9e7f73f9bf7973b5ad2cfa4d3506738aad182cf3c989f60dd",
+      "data_audit_sha256": "24cbdcf3025263344e034ca7b9b3bd950b2fa18a2646efdded6bed42ebfc2493",
+      "code": {
+        "evaluate.py": "282bc98bbe50249e90f9553e0e4dd8cfd2f1ed6be02d49f26ec51c2adb0c74ca",
+        "configure_eval_v2.py": "78425a7069c12d3cb804376c8e1f47fcba2d14bc88976fa6e84e488b8089f67a",
+        "test_schedule.py": "5af10a12bae7ce412366db244df74b23ab9971974508e520eb0dc1d193e24697",
+        "rescore_history_v2.py": "e9fcbb01dce166718f4543b287776f64e1b136058023f2dda542cf9a47a312ad",
+        "test_buckets.py": "4e764c9d14a2199724fedcb3c5868b52c2f4e75c3b6a5d1d94e3c5bd399613f6",
+        "buckets.py": "41094e0c5051ac9ecda3ac2fdded1b60cd5785d0979cd3b265f09a5fae2dce4b",
+        "launch.py": "77646bd4e3ebb99ba4e84e23784edd25d2a95e032d8401c69e5b80f0b7b421c4",
+        "metrics_v2.py": "c9fe0eddac514c86a646611bf42c02d920915e8976f062b855224f99a914f5a8",
+        "migrate_eval_v2.py": "d1fedde7c8dfc5d877a64369331d22b0e21a35c7b123aa39548e92167d831492",
+        "schedule.py": "a1f56befa0de44c1104c90e960eed71a2f6dd4724d4e00798fe73b3d87a10462",
+        "data.py": "31f43b8e25cf0e3c65a21fa79a09c38d9f25def3eae87d9a2c8e38d7e30e8e23",
+        "evaluate_v2.py": "3090e39ddcc48ccd58413b7d4c8a36c35219811221ba7ae1d8bcc4dc5c94659b",
+        "prepare.py": "90b7bafd87b3d38a27d14623e38dfb8f9dbdebac888cac0f0bdcd3361043b0d0",
+        "common.py": "4f32901b7aafc9f9f279761225b3bd732807dadfd3b49081782aa80b962a4dfa",
+        "build_artist_bank.py": "5c1dfa7a2b83ce29fabb0a07528d4db3307866683e0aebfd2f3f50f5666d25cd",
+        "validate_eval_v2.py": "e11dbda493f7b2452c42f2f89644e0bf33bcb543b95efff3855431a27d55075f",
+        "plateau_v2.py": "2ff5f98a77ca23e4acaa830e33ab6eaeded56b173d6a4c482ee337a24bad0580",
+        "test_eval_v2.py": "c9b1029de2842f508507cfd044bbd83adbd52f1e3f7e74d7f14e7779eb22dede",
+        "train.py": "94b7beb5b10b8ef24e14fb996209132c7e586445c5882b49084811cc98e4bcc0",
+        "audit_dimensions.py": "6be2121d5f041407f16ac4a76ecd2dcc482bf1dcd955fb22ac55949656ee6fe6",
+        "prepare_eval_v2.py": "81caca8b374f922b1d05d3f8567a5d15127f7cce9fcf5d4a6bc12391027d0439"
+      }
+    },
+    "old_source_sha256": "9e7eaccc9a0713ac9209a53bb2bf9e8c6aec28ce0de0c88ff1ce1e8918b963f4",
+    "new_checkpoint_sha256": "d60e6c59377bb87f30c4aeac0208477ccdf9e0b06404a36d9b7974d8e5b3333b",
+    "best_v2_step": 35006,
+    "seeded_regular_evaluations": [
+      35006
+    ],
+    "next_regular_evaluation": 36006,
+    "original_code_and_checkpoint_backup": "<local-path>",
+    "human_calibration_pending": true
+  }
+}

@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kaloscope-style-adapter"
+version = "0.1.0"
+description = "Portable Kaloscope Z3 style adapter training for Krea2 and MOSS"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+license = {file = "LICENSE.md"}
+dependencies = ["torch>=2.9", "numpy>=1.26", "Pillow>=10", "safetensors>=0.6", "einops>=0.7"]
+
+[project.optional-dependencies]
+krea2 = ["transformers>=4.57,<5", "accelerate>=1.10", "huggingface-hub>=0.34,<1", "tqdm", "packaging", "psutil"]
+moss = ["diffusers>=0.38,<0.40", "transformers>=5.3,<6", "accelerate>=1.10"]
+dev = ["pytest>=8", "ruff>=0.12", "build"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+kaloscope_dinov3 = ["LICENSE.md"]
+kaloscope_style = ["_vendor/LICENSE_MOSS.txt"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

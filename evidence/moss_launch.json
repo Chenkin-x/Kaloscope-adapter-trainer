@@ -1,0 +1,27 @@
+{
+  "status": "running",
+  "verified_unix": 1792240198.615557,
+  "observed_step": 14,
+  "checkpoint_step": 5,
+  "optimizer_steps": [
+    1029
+  ],
+  "parent_step": 1024,
+  "world_size": 6,
+  "global_batch": 128,
+  "targets": 4314223,
+  "artists": 41759,
+  "max_adapter_change_since_parent": 7.682107388973236e-05,
+  "baseline_generation_cases": 192,
+  "baseline_wrong_reference_cases": 48,
+  "baseline_fixed_fm_cases": 288,
+  "calibration_passed": true,
+  "baseline_csd": 0.014748792862519622,
+  "baseline_csd_hit1": 0.140625,
+  "mean_step_seconds": 9.625412481171745,
+  "pid": 1732060,
+  "eval_every": 1000,
+  "save_every": 250,
+  "model": "MOSS-Image-Base",
+  "user_explicitly_authorized_full_training": true
+}

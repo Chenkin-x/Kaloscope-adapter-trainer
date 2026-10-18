@@ -1,0 +1,666 @@
+{
+  "validation": [
+    {
+      "arm": "extend",
+      "step": 256,
+      "n": 64,
+      "native": 0.42746015766169876,
+      "correct": 0.42694738996215165,
+      "wrong": 0.4267718360060826,
+      "correct_improvement_percent": 0.1199568405046314,
+      "wrong_improvement_percent": 0.16102592096102208
+    },
+    {
+      "arm": "extend",
+      "step": 384,
+      "n": 64,
+      "native": 0.42746015766169876,
+      "correct": 0.42801486316602677,
+      "wrong": 0.428166824975051,
+      "correct_improvement_percent": -0.12976776768209852,
+      "wrong_improvement_percent": -0.165317702875023
+    },
+    {
+      "arm": "extend",
+      "step": 512,
+      "n": 64,
+      "native": 0.42746015766169876,
+      "correct": 0.4272647105390206,
+      "wrong": 0.42749969649594277,
+      "correct_improvement_percent": 0.04572288649011824,
+      "wrong_improvement_percent": -0.0092497121744195
+    },
+    {
+      "arm": "extend",
+      "step": 640,
+      "n": 64,
+      "native": 0.42746015766169876,
+      "correct": 0.42657908669207245,
+      "wrong": 0.42686999938450754,
+      "correct_improvement_percent": 0.20611768227616345,
+      "wrong_improvement_percent": 0.13806158693702164
+    },
+    {
+      "arm": "extend",
+      "step": 768,
+      "n": 64,
+      "native": 0.42746015766169876,
+      "correct": 0.42645079374779016,
+      "wrong": 0.42673181067220867,
+      "correct_improvement_percent": 0.23613052487277963,
+      "wrong_improvement_percent": 0.17038944482552498
+    },
+    {
+      "arm": "extend",
+      "step": 896,
+      "n": 64,
+      "native": 0.42746015766169876,
+      "correct": 0.42600432003382593,
+      "wrong": 0.4263983769342303,
+      "correct_improvement_percent": 0.3405785549316587,
+      "wrong_improvement_percent": 0.24839291064613356
+    },
+    {
+      "arm": "extend",
+      "step": 1024,
+      "n": 64,
+      "native": 0.42746015766169876,
+      "correct": 0.4258694387972355,
+      "wrong": 0.42627754888962954,
+      "correct_improvement_percent": 0.3721326621795251,
+      "wrong_improvement_percent": 0.2766594151226487
+    },
+    {
+      "arm": "overfit",
+      "step": 0,
+      "n": 32,
+      "native": 0.2740137919317931,
+      "correct": 0.2740137919317931,
+      "wrong": 0.2740137919317931,
+      "correct_improvement_percent": 0.0,
+      "wrong_improvement_percent": 0.0
+    },
+    {
+      "arm": "overfit",
+      "step": 128,
+      "n": 32,
+      "native": 0.2740137919317931,
+      "correct": 0.27077712025493383,
+      "wrong": 0.2800102678593248,
+      "correct_improvement_percent": 1.1812075786553522,
+      "wrong_improvement_percent": -2.1883847105858
+    },
+    {
+      "arm": "overfit",
+      "step": 256,
+      "n": 32,
+      "native": 0.2740137919317931,
+      "correct": 0.26739293057471514,
+      "wrong": 0.28406269173137844,
+      "correct_improvement_percent": 2.4162511348063798,
+      "wrong_improvement_percent": -3.667297083384291
+    },
+    {
+      "arm": "overfit",
+      "step": 384,
+      "n": 32,
+      "native": 0.2740137919317931,
+      "correct": 0.25857376656495035,
+      "wrong": 0.29082652437500656,
+      "correct_improvement_percent": 5.634762125654625,
+      "wrong_improvement_percent": -6.135724893511374
+    }
+  ],
+  "images": {
+    "step256": {
+      "dino": {
+        "name3": {
+          "n": 16,
+          "hits": 1,
+          "style_cos": 0.21780127580859698,
+          "mean_rank": 18.8125
+        },
+        "native": {
+          "n": 16,
+          "hits": 0,
+          "style_cos": 0.23220459464937449,
+          "mean_rank": 22.125
+        },
+        "ref1": {
+          "n": 16,
+          "hits": 0,
+          "style_cos": 0.22136097634211183,
+          "mean_rank": 21.4375
+        },
+        "ref3": {
+          "n": 16,
+          "hits": 0,
+          "style_cos": 0.21187338622985408,
+          "mean_rank": 20.6875
+        },
+        "ref6": {
+          "n": 16,
+          "hits": 0,
+          "style_cos": 0.19016506511252373,
+          "mean_rank": 24.0
+        },
+        "wrong3": {
+          "n": 16,
+          "hits": 0,
+          "style_cos": 0.1907835049496498,
+          "mean_rank": 25.0625
+        }
+      },
+      "dino_by_seen": [
+        {
+          "phase": "step256",
+          "adapter_seen": true,
+          "mode": "native",
+          "n": 8,
+          "style_cos": 0.237630944699049,
+          "reference_cos": 0.22289934381842613,
+          "hit1": 0.0,
+          "rank": 20.625,
+          "pixel_mae_native": 0.0
+        },
+        {
+          "phase": "step256",
+          "adapter_seen": true,
+          "mode": "ref1",
+          "n": 8,
+          "style_cos": 0.2546234428882599,
+          "reference_cos": 0.21953729260712862,
+          "hit1": 0.0,
+          "rank": 14.875,
+          "pixel_mae_native": 0.056273954678205104
+        },
+        {
+          "phase": "step256",
+          "adapter_seen": true,
+          "mode": "ref3",
+          "n": 8,
+          "style_cos": 0.2567363567650318,
+          "reference_cos": 0.23423020262271166,
+          "hit1": 0.0,
+          "rank": 13.125,
+          "pixel_mae_native": 0.13548494850108825
+        },
+        {
+          "phase": "step256",
+          "adapter_seen": true,
+          "mode": "ref6",
+          "n": 8,
+          "style_cos": 0.24957560561597347,
+          "reference_cos": 0.2524374797940254,
+          "hit1": 0.0,
+          "rank": 14.5,
+          "pixel_mae_native": 0.2133918974134657
+        },
+        {
+          "phase": "step256",
+          "adapter_seen": true,
+          "mode": "name3",
+          "n": 8,
+          "style_cos": 0.26245115883648396,
+          "reference_cos": 0.1912793219089508,
+          "hit1": 0.125,
+          "rank": 12.125,
+          "pixel_mae_native": 0.16150755414775775
+        },
+        {
+          "phase": "step256",
+          "adapter_seen": true,
+          "mode": "wrong3",
+          "n": 8,
+          "style_cos": 0.21669934410601854,
+          "reference_cos": 0.16881538718007505,
+          "hit1": 0.0,
+          "rank": 21.25,
+          "pixel_mae_native": 0.13911847257925794
+        },
+        {
+          "phase": "step256",
+          "adapter_seen": false,
+          "mode": "native",
+          "n": 8,
+          "style_cos": 0.22677824459969997,
+          "reference_cos": 0.14864151924848557,
+          "hit1": 0.0,
+          "rank": 23.625,
+          "pixel_mae_native": 0.0
+        },
+        {
+          "phase": "step256",
+          "adapter_seen": false,
+          "mode": "ref1",
+          "n": 8,
+          "style_cos": 0.18809850979596376,
+          "reference_cos": 0.11313660349696875,
+          "hit1": 0.0,
+          "rank": 28.0,
+          "pixel_mae_native": 0.06729498283535826
+        },
+        {
+          "phase": "step256",
+          "adapter_seen": false,
+          "mode": "ref3",
+          "n": 8,
+          "style_cos": 0.16701041569467634,
+          "reference_cos": 0.10963076120242476,
+          "hit1": 0.0,
+          "rank": 28.25,
+          "pixel_mae_native": 0.14996050978018569
+        },
+        {
+          "phase": "step256",
+          "adapter_seen": false,
+          "mode": "ref6",
+          "n": 8,
+          "style_cos": 0.130754524609074,
+          "reference_cos": 0.09258899046108127,
+          "hit1": 0.0,
+          "rank": 33.5,
+          "pixel_mae_native": 0.21652833527209708
+        },
+        {
+          "phase": "step256",
+          "adapter_seen": false,
+          "mode": "name3",
+          "n": 8,
+          "style_cos": 0.17315139278071,
+          "reference_cos": 0.12025094451382756,
+          "hit1": 0.0,
+          "rank": 25.5,
+          "pixel_mae_native": 0.12850198558732576
+        },
+        {
+          "phase": "step256",
+          "adapter_seen": false,
+          "mode": "wrong3",
+          "n": 8,
+          "style_cos": 0.16486766579328105,
+          "reference_cos": 0.0990950739942491,
+          "hit1": 0.0,
+          "rank": 28.875,
+          "pixel_mae_native": 0.146326985702016
+        }
+      ],
+      "csd_paired_macro": {
+        "ref1_minus_native": -0.00459921732544899,
+        "ref3_minus_native": -0.002577373292297125,
+        "ref6_minus_native": -0.019880371633917093,
+        "wrong3_minus_native": 0.008819748647511005,
+        "name3_minus_native": 0.007731983903795481,
+        "ref3_minus_wrong3": -0.01139712193980813
+      },
+      "csd_by_artist": [
+        {
+          "artist": "kozakura_(dictionary)",
+          "ref1_minus_native": -0.025715619325637817,
+          "ref3_minus_native": -0.04387231916189194,
+          "ref6_minus_native": -0.13234765082597733,
+          "wrong3_minus_native": -0.01766856014728546,
+          "name3_minus_native": 0.0005345679819583893,
+          "ref3_minus_wrong3": -0.026203759014606476
+        },
+        {
+          "artist": "meito_(maze)",
+          "ref1_minus_native": 0.011258803308010101,
+          "ref3_minus_native": 0.01838386058807373,
+          "ref6_minus_native": 0.02940324693918228,
+          "wrong3_minus_native": 0.01918208599090576,
+          "name3_minus_native": -0.013660825788974762,
+          "ref3_minus_wrong3": -0.0007982254028320312
+        },
+        {
+          "artist": "ryosios",
+          "ref1_minus_native": 0.01774115115404129,
+          "ref3_minus_native": 0.053939856588840485,
+          "ref6_minus_native": 0.03360772132873535,
+          "wrong3_minus_native": 0.083222895860672,
+          "name3_minus_native": 0.058472562581300735,
+          "ref3_minus_wrong3": -0.029283039271831512
+        },
+        {
+          "artist": "yamanashi_taiki",
+          "ref1_minus_native": -0.021681204438209534,
+          "ref3_minus_native": -0.03876089118421078,
+          "ref6_minus_native": -0.01018480397760868,
+          "wrong3_minus_native": -0.049457427114248276,
+          "name3_minus_native": -0.01441836915910244,
+          "ref3_minus_wrong3": 0.010696535930037498
+        }
+      ]
+    },
+    "step1024": {
+      "dino": {
+        "name3": {
+          "n": 16,
+          "hits": 0,
+          "style_cos": 0.2642054265597835,
+          "mean_rank": 18.4375
+        },
+        "native": {
+          "n": 16,
+          "hits": 0,
+          "style_cos": 0.23220459464937449,
+          "mean_rank": 22.125
+        },
+        "ref1": {
+          "n": 16,
+          "hits": 0,
+          "style_cos": 0.2428414390888065,
+          "mean_rank": 18.5
+        },
+        "ref3": {
+          "n": 16,
+          "hits": 0,
+          "style_cos": 0.24437335971742868,
+          "mean_rank": 19.3125
+        },
+        "ref6": {
+          "n": 16,
+          "hits": 0,
+          "style_cos": 0.26641850732266903,
+          "mean_rank": 19.5
+        },
+        "wrong3": {
+          "n": 16,
+          "hits": 0,
+          "style_cos": 0.23630112502723932,
+          "mean_rank": 19.75
+        }
+      },
+      "dino_by_seen": [
+        {
+          "phase": "step1024",
+          "adapter_seen": true,
+          "mode": "native",
+          "n": 8,
+          "style_cos": 0.237630944699049,
+          "reference_cos": 0.22289934381842613,
+          "hit1": 0.0,
+          "rank": 20.625,
+          "pixel_mae_native": 0.0
+        },
+        {
+          "phase": "step1024",
+          "adapter_seen": true,
+          "mode": "ref1",
+          "n": 8,
+          "style_cos": 0.28138897754251957,
+          "reference_cos": 0.23604542948305607,
+          "hit1": 0.0,
+          "rank": 10.125,
+          "pixel_mae_native": 0.06119397668277516
+        },
+        {
+          "phase": "step1024",
+          "adapter_seen": true,
+          "mode": "ref3",
+          "n": 8,
+          "style_cos": 0.2919622529298067,
+          "reference_cos": 0.2614008355885744,
+          "hit1": 0.0,
+          "rank": 9.375,
+          "pixel_mae_native": 0.146214938942903
+        },
+        {
+          "phase": "step1024",
+          "adapter_seen": true,
+          "mode": "ref6",
+          "n": 8,
+          "style_cos": 0.32300144992768764,
+          "reference_cos": 0.2923411726951599,
+          "hit1": 0.0,
+          "rank": 8.5,
+          "pixel_mae_native": 0.24053087982476923
+        },
+        {
+          "phase": "step1024",
+          "adapter_seen": true,
+          "mode": "name3",
+          "n": 8,
+          "style_cos": 0.3092665132135153,
+          "reference_cos": 0.24087373167276382,
+          "hit1": 0.0,
+          "rank": 10.875,
+          "pixel_mae_native": 0.1409724104638193
+        },
+        {
+          "phase": "step1024",
+          "adapter_seen": true,
+          "mode": "wrong3",
+          "n": 8,
+          "style_cos": 0.2570480778813362,
+          "reference_cos": 0.18989476561546326,
+          "hit1": 0.0,
+          "rank": 16.0,
+          "pixel_mae_native": 0.15640652164135105
+        },
+        {
+          "phase": "step1024",
+          "adapter_seen": false,
+          "mode": "native",
+          "n": 8,
+          "style_cos": 0.22677824459969997,
+          "reference_cos": 0.14864151924848557,
+          "hit1": 0.0,
+          "rank": 23.625,
+          "pixel_mae_native": 0.0
+        },
+        {
+          "phase": "step1024",
+          "adapter_seen": false,
+          "mode": "ref1",
+          "n": 8,
+          "style_cos": 0.20429390063509345,
+          "reference_cos": 0.12039761710911989,
+          "hit1": 0.0,
+          "rank": 26.875,
+          "pixel_mae_native": 0.06815948860318052
+        },
+        {
+          "phase": "step1024",
+          "adapter_seen": false,
+          "mode": "ref3",
+          "n": 8,
+          "style_cos": 0.19678446650505066,
+          "reference_cos": 0.13233118643984199,
+          "hit1": 0.0,
+          "rank": 29.25,
+          "pixel_mae_native": 0.15768839455897513
+        },
+        {
+          "phase": "step1024",
+          "adapter_seen": false,
+          "mode": "ref6",
+          "n": 8,
+          "style_cos": 0.2098355647176504,
+          "reference_cos": 0.18445061706006527,
+          "hit1": 0.0,
+          "rank": 30.5,
+          "pixel_mae_native": 0.22296872918122734
+        },
+        {
+          "phase": "step1024",
+          "adapter_seen": false,
+          "mode": "name3",
+          "n": 8,
+          "style_cos": 0.21914433990605175,
+          "reference_cos": 0.15255207335576415,
+          "hit1": 0.0,
+          "rank": 26.0,
+          "pixel_mae_native": 0.13827123517304463
+        },
+        {
+          "phase": "step1024",
+          "adapter_seen": false,
+          "mode": "wrong3",
+          "n": 8,
+          "style_cos": 0.21555417217314243,
+          "reference_cos": 0.1344186207279563,
+          "hit1": 0.0,
+          "rank": 23.5,
+          "pixel_mae_native": 0.1474968118605271
+        }
+      ],
+      "csd_paired_macro": {
+        "ref1_minus_native": -0.005053813569247723,
+        "ref3_minus_native": -0.010756102856248617,
+        "ref6_minus_native": 0.003335744608193636,
+        "wrong3_minus_native": 0.0018183812499046326,
+        "name3_minus_native": 0.0064880638383328915,
+        "ref3_minus_wrong3": -0.01257448410615325
+      },
+      "csd_by_artist": [
+        {
+          "artist": "kozakura_(dictionary)",
+          "ref1_minus_native": 0.0028931498527526855,
+          "ref3_minus_native": -0.0011849626898765564,
+          "ref6_minus_native": 0.04760914295911789,
+          "wrong3_minus_native": -0.045115865767002106,
+          "name3_minus_native": 0.03337481617927551,
+          "ref3_minus_wrong3": 0.04393090307712555
+        },
+        {
+          "artist": "meito_(maze)",
+          "ref1_minus_native": 0.00023395568132400513,
+          "ref3_minus_native": 0.00291578471660614,
+          "ref6_minus_native": 0.04054858535528183,
+          "wrong3_minus_native": -0.0367899015545845,
+          "name3_minus_native": -0.014875300228595734,
+          "ref3_minus_wrong3": 0.03970568627119064
+        },
+        {
+          "artist": "ryosios",
+          "ref1_minus_native": 0.0013486817479133606,
+          "ref3_minus_native": -0.01398295909166336,
+          "ref6_minus_native": -0.08999215066432953,
+          "wrong3_minus_native": 0.05631294101476669,
+          "name3_minus_native": 0.013177059590816498,
+          "ref3_minus_wrong3": -0.07029590010643005
+        },
+        {
+          "artist": "yamanashi_taiki",
+          "ref1_minus_native": -0.024691041558980942,
+          "ref3_minus_native": -0.030772274360060692,
+          "ref6_minus_native": 0.015177400782704353,
+          "wrong3_minus_native": 0.032866351306438446,
+          "name3_minus_native": -0.005724320188164711,
+          "ref3_minus_wrong3": -0.06363862566649914
+        }
+      ]
+    },
+    "overfit": {
+      "dino": {
+        "native": {
+          "n": 4,
+          "hits": 0,
+          "style_cos": 0.3061760812997818,
+          "mean_rank": 17.25
+        },
+        "ref1": {
+          "n": 4,
+          "hits": 1,
+          "style_cos": 0.3589267432689667,
+          "mean_rank": 7.75
+        },
+        "ref3": {
+          "n": 4,
+          "hits": 1,
+          "style_cos": 0.38453059643507004,
+          "mean_rank": 7.5
+        },
+        "wrong3": {
+          "n": 4,
+          "hits": 0,
+          "style_cos": 0.27059557288885117,
+          "mean_rank": 20.5
+        }
+      },
+      "dino_by_seen": [
+        {
+          "phase": "overfit",
+          "adapter_seen": true,
+          "mode": "native",
+          "n": 4,
+          "style_cos": 0.3061760812997818,
+          "reference_cos": 0.2459741160273552,
+          "hit1": 0.0,
+          "rank": 17.25,
+          "pixel_mae_native": 0.0
+        },
+        {
+          "phase": "overfit",
+          "adapter_seen": true,
+          "mode": "ref1",
+          "n": 4,
+          "style_cos": 0.3589267432689667,
+          "reference_cos": 0.2667800597846508,
+          "hit1": 0.25,
+          "rank": 7.75,
+          "pixel_mae_native": 0.16635643828148935
+        },
+        {
+          "phase": "overfit",
+          "adapter_seen": true,
+          "mode": "ref3",
+          "n": 4,
+          "style_cos": 0.38453059643507004,
+          "reference_cos": 0.2600097693502903,
+          "hit1": 0.25,
+          "rank": 7.5,
+          "pixel_mae_native": 0.32478850744908155
+        },
+        {
+          "phase": "overfit",
+          "adapter_seen": true,
+          "mode": "wrong3",
+          "n": 4,
+          "style_cos": 0.27059557288885117,
+          "reference_cos": 0.1941530853509903,
+          "hit1": 0.0,
+          "rank": 20.5,
+          "pixel_mae_native": 0.32478850744908155
+        }
+      ],
+      "csd_paired_macro": {
+        "ref1_minus_native": 0.057672467082738876,
+        "ref3_minus_native": 0.08477212581783533,
+        "wrong3_minus_native": 0.004545718431472778,
+        "ref3_minus_wrong3": 0.08022640738636255
+      },
+      "csd_by_artist": [
+        {
+          "artist": "goma_(gomasamune)",
+          "ref1_minus_native": -0.15347687900066376,
+          "ref3_minus_native": -0.13926219567656517,
+          "wrong3_minus_native": -0.021155424416065216,
+          "ref3_minus_wrong3": -0.11810677126049995
+        },
+        {
+          "artist": "kozakura_(dictionary)",
+          "ref1_minus_native": 0.1993483230471611,
+          "ref3_minus_native": 0.21649696677923203,
+          "wrong3_minus_native": -0.049354203045368195,
+          "ref3_minus_wrong3": 0.2658511698246002
+        },
+        {
+          "artist": "maka_(maka04021)",
+          "ref1_minus_native": 0.08812025934457779,
+          "ref3_minus_native": 0.17218471318483353,
+          "wrong3_minus_native": 0.1092674732208252,
+          "ref3_minus_wrong3": 0.06291723996400833
+        },
+        {
+          "artist": "meito_(maze)",
+          "ref1_minus_native": 0.09669816493988037,
+          "ref3_minus_native": 0.08966901898384094,
+          "wrong3_minus_native": -0.02057497203350067,
+          "ref3_minus_wrong3": 0.11024399101734161
+        }
+      ]
+    }
+  }
+}

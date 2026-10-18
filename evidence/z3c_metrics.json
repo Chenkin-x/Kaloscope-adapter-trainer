@@ -1,0 +1,1024 @@
+{
+  "source_sha256": {
+    "dev256": "40d61e04d7ed1de626ab4bfc6e1569c1b14e48395685b3850af466aa8c6b7308",
+    "dev512": "34bed0c3e99af5080d914684d0afffccd1a9bba2904863ba1516c5d543371052",
+    "dev1024": "03dbe6b4dd2d9211f82bd33ce70782578ea71f3408d083ed11f75185530de585",
+    "dev2048": "1299be52bf4d9502213590878f92475fba89f4d2b11be272073e39757ce6aa3d",
+    "dev_grid": "3e877ab305daef5f558961f80b3841849c0d4acd1c7b523ee647302d43d3fdf3"
+  },
+  "training_health": {
+    "Z3C": {
+      "status": {
+        "status": "completed",
+        "steps": 2048,
+        "world_size": 4,
+        "seconds": 2129.931654691696,
+        "sample_sha256_by_rank": [
+          "bc64aa5b49dd0af603dc27131a0a8c7a22dce0ba509c527a9d637f2e40533336",
+          "dbdbbf808f43ded8f94fc29b75ebff4aa5ca6bf4ab439ca799719bfbed6931d0",
+          "971cc5d11e4bf039b1ff83dadc2d4ba20e8ea5bc2bf6381e348e3b81c3c8b216",
+          "49ef48294d8fd4022b65ab53eb7e6deb8625436c01b5bfbf59ff91099b7f87b9"
+        ],
+        "step_seconds_mean": 1.0320635683601722,
+        "peak_gib": 25.05036735534668,
+        "trainable_changed": true,
+        "all_base_frozen": true
+      },
+      "first128_fm_mean": 0.11858612828655168,
+      "last128_fm_mean": 0.11624161957297474,
+      "final_fm": 0.1143023818731308,
+      "max_gradient_norm": 1.3598145246505737,
+      "clipped_steps": 1,
+      "all_steps_finite": true,
+      "run_gpu_hours": 2.366590727435218
+    },
+    "P256": {
+      "status": {
+        "status": "completed",
+        "steps": 2048,
+        "world_size": 4,
+        "seconds": 2346.4825942516327,
+        "sample_sha256_by_rank": [
+          "bc64aa5b49dd0af603dc27131a0a8c7a22dce0ba509c527a9d637f2e40533336",
+          "dbdbbf808f43ded8f94fc29b75ebff4aa5ca6bf4ab439ca799719bfbed6931d0",
+          "971cc5d11e4bf039b1ff83dadc2d4ba20e8ea5bc2bf6381e348e3b81c3c8b216",
+          "49ef48294d8fd4022b65ab53eb7e6deb8625436c01b5bfbf59ff91099b7f87b9"
+        ],
+        "step_seconds_mean": 1.1390390131855384,
+        "peak_gib": 25.000736236572266,
+        "trainable_changed": true,
+        "all_base_frozen": true
+      },
+      "first128_fm_mean": 0.12052992021199316,
+      "last128_fm_mean": 0.11772516940254718,
+      "final_fm": 0.1146036759018898,
+      "max_gradient_norm": 0.1853851079940796,
+      "clipped_steps": 0,
+      "all_steps_finite": true,
+      "run_gpu_hours": 2.6072028825018143
+    },
+    "G256": {
+      "status": {
+        "status": "completed",
+        "steps": 2048,
+        "world_size": 4,
+        "seconds": 2524.0206155776978,
+        "sample_sha256_by_rank": [
+          "bc64aa5b49dd0af603dc27131a0a8c7a22dce0ba509c527a9d637f2e40533336",
+          "dbdbbf808f43ded8f94fc29b75ebff4aa5ca6bf4ab439ca799719bfbed6931d0",
+          "971cc5d11e4bf039b1ff83dadc2d4ba20e8ea5bc2bf6381e348e3b81c3c8b216",
+          "49ef48294d8fd4022b65ab53eb7e6deb8625436c01b5bfbf59ff91099b7f87b9"
+        ],
+        "step_seconds_mean": 1.2238250593654811,
+        "peak_gib": 25.000736236572266,
+        "trainable_changed": true,
+        "all_base_frozen": true
+      },
+      "first128_fm_mean": 0.12038594571640715,
+      "last128_fm_mean": 0.1183618608629331,
+      "final_fm": 0.11398577690124512,
+      "max_gradient_norm": 0.28174465894699097,
+      "clipped_steps": 0,
+      "all_steps_finite": true,
+      "run_gpu_hours": 2.8044673506418865
+    }
+  },
+  "paired_sampling_identical": true,
+  "fixed_settings_contrasts": {
+    "Z3_t2_g5.5": {
+      "style": {
+        "delta": 0.03362779039889574,
+        "ci95": [
+          0.008711856324225664,
+          0.05760209960862994
+        ],
+        "by_artist": {
+          "e20": 0.05344681441783905,
+          "feiyu30903448": 0.05294378101825714,
+          "hazakura_hinata": -0.030164256691932678,
+          "matsukuzu": 0.06503060832619667,
+          "murase48": 0.013421297073364258,
+          "rokugou_daisuke": 0.03630826622247696,
+          "ryosios": -0.005616791546344757,
+          "yamanashi_taiki": 0.08365260437130928
+        },
+        "improved_artists": 6,
+        "declined_artists": 2
+      },
+      "hit1": {
+        "delta": 0.15625,
+        "ci95": [
+          -0.0625,
+          0.34375
+        ],
+        "by_artist": {
+          "e20": 0.5,
+          "feiyu30903448": 0,
+          "hazakura_hinata": -0.5,
+          "matsukuzu": 0.25,
+          "murase48": 0.5,
+          "rokugou_daisuke": 0.25,
+          "ryosios": 0,
+          "yamanashi_taiki": 0.25
+        },
+        "improved_artists": 5,
+        "declined_artists": 1
+      },
+      "raw_style": {
+        "delta": -0.014299589209258556,
+        "ci95": [
+          -0.03270640131086111,
+          0.0034265071153640747
+        ],
+        "by_artist": {
+          "e20": -0.023899249732494354,
+          "feiyu30903448": -0.038456469774246216,
+          "hazakura_hinata": 0.01888745278120041,
+          "matsukuzu": -0.057857170701026917,
+          "murase48": 0.0035227984189987183,
+          "rokugou_daisuke": 0.002673819661140442,
+          "ryosios": -0.03458951413631439,
+          "yamanashi_taiki": 0.015321619808673859
+        },
+        "improved_artists": 4,
+        "declined_artists": 4
+      },
+      "raw_hit1": {
+        "delta": 0,
+        "ci95": [
+          0,
+          0
+        ],
+        "by_artist": {
+          "e20": 0,
+          "feiyu30903448": 0,
+          "hazakura_hinata": 0,
+          "matsukuzu": 0,
+          "murase48": 0,
+          "rokugou_daisuke": 0,
+          "ryosios": 0,
+          "yamanashi_taiki": 0
+        },
+        "improved_artists": 0,
+        "declined_artists": 0
+      },
+      "content": {
+        "delta": 0.0011985208839178085,
+        "ci95": [
+          -0.012119019404053688,
+          0.014418963342905045
+        ],
+        "by_artist": {
+          "e20": -0.013034328818321228,
+          "feiyu30903448": -0.03418837487697601,
+          "hazakura_hinata": 0.015862032771110535,
+          "matsukuzu": 0.006366923451423645,
+          "murase48": -0.006334751844406128,
+          "rokugou_daisuke": 0.010495409369468689,
+          "ryosios": 0.034684449434280396,
+          "yamanashi_taiki": -0.004263192415237427
+        },
+        "improved_artists": 4,
+        "declined_artists": 4
+      },
+      "reference_content": {
+        "delta": -0.01300814189016819,
+        "ci95": [
+          -0.02795532252639532,
+          0.0006162440404295921
+        ],
+        "by_artist": {
+          "e20": -0.02471192181110382,
+          "feiyu30903448": -0.030932188034057617,
+          "hazakura_hinata": 0.008771196007728577,
+          "matsukuzu": -0.051864832639694214,
+          "murase48": 0.004390068352222443,
+          "rokugou_daisuke": 0.005481027066707611,
+          "ryosios": -0.02032598853111267,
+          "yamanashi_taiki": 0.005127504467964172
+        },
+        "improved_artists": 4,
+        "declined_artists": 4
+      }
+    },
+    "Z3_t5.5_g5.5": {
+      "style": {
+        "delta": 0.03415815206244588,
+        "ci95": [
+          -0.002288774587213993,
+          0.0694720009341836
+        ],
+        "by_artist": {
+          "e20": 0.04489462450146675,
+          "feiyu30903448": 0.10720407962799072,
+          "hazakura_hinata": -0.025287792086601257,
+          "matsukuzu": 0.047777678817510605,
+          "murase48": 0.013293266296386719,
+          "rokugou_daisuke": 0.10183446109294891,
+          "ryosios": -0.053554076701402664,
+          "yamanashi_taiki": 0.03710297495126724
+        },
+        "improved_artists": 6,
+        "declined_artists": 2
+      },
+      "hit1": {
+        "delta": 0.09375,
+        "ci95": [
+          -0.0625,
+          0.25
+        ],
+        "by_artist": {
+          "e20": 0.5,
+          "feiyu30903448": -0.25,
+          "hazakura_hinata": -0.25,
+          "matsukuzu": 0.25,
+          "murase48": 0.25,
+          "rokugou_daisuke": 0,
+          "ryosios": 0,
+          "yamanashi_taiki": 0.25
+        },
+        "improved_artists": 4,
+        "declined_artists": 2
+      },
+      "raw_style": {
+        "delta": -0.003103514201939106,
+        "ci95": [
+          -0.020030498504638672,
+          0.013334960676729679
+        ],
+        "by_artist": {
+          "e20": -0.03145147114992142,
+          "feiyu30903448": -0.012777253985404968,
+          "hazakura_hinata": 0.011101946234703064,
+          "matsukuzu": -0.03949043154716492,
+          "murase48": -0.014158651232719421,
+          "rokugou_daisuke": 0.025868088006973267,
+          "ryosios": 0.0042878612875938416,
+          "yamanashi_taiki": 0.031791798770427704
+        },
+        "improved_artists": 4,
+        "declined_artists": 4
+      },
+      "raw_hit1": {
+        "delta": 0,
+        "ci95": [
+          0,
+          0
+        ],
+        "by_artist": {
+          "e20": 0,
+          "feiyu30903448": 0,
+          "hazakura_hinata": 0,
+          "matsukuzu": 0,
+          "murase48": 0,
+          "rokugou_daisuke": 0,
+          "ryosios": 0,
+          "yamanashi_taiki": 0
+        },
+        "improved_artists": 0,
+        "declined_artists": 0
+      },
+      "content": {
+        "delta": -0.018909012898802757,
+        "ci95": [
+          -0.030956650152802467,
+          -0.006603386253118515
+        ],
+        "by_artist": {
+          "e20": -0.021719053387641907,
+          "feiyu30903448": -0.03773456811904907,
+          "hazakura_hinata": 0.013551846146583557,
+          "matsukuzu": -0.047427624464035034,
+          "murase48": -0.014256477355957031,
+          "rokugou_daisuke": -0.019243597984313965,
+          "ryosios": -0.002817317843437195,
+          "yamanashi_taiki": -0.02162531018257141
+        },
+        "improved_artists": 1,
+        "declined_artists": 7
+      },
+      "reference_content": {
+        "delta": -0.003085510805249214,
+        "ci95": [
+          -0.019793296232819557,
+          0.013922717422246933
+        ],
+        "by_artist": {
+          "e20": -0.02515806257724762,
+          "feiyu30903448": -0.02734438329935074,
+          "hazakura_hinata": 0.002640172839164734,
+          "matsukuzu": -0.03542940318584442,
+          "murase48": -0.01310950517654419,
+          "rokugou_daisuke": 0.01558271050453186,
+          "ryosios": 0.03298588842153549,
+          "yamanashi_taiki": 0.02514849603176117
+        },
+        "improved_artists": 4,
+        "declined_artists": 4
+      }
+    },
+    "P256_t2_g5.5": {
+      "style": {
+        "delta": 0.08224914129823446,
+        "ci95": [
+          0.04312977707013488,
+          0.11947549460455775
+        ],
+        "by_artist": {
+          "e20": 0.13722313940525055,
+          "feiyu30903448": 0.07574203610420227,
+          "hazakura_hinata": -0.0157318077981472,
+          "matsukuzu": 0.09398829564452171,
+          "murase48": 0.16788871586322784,
+          "rokugou_daisuke": 0.11455134302377701,
+          "ryosios": 0.023182787001132965,
+          "yamanashi_taiki": 0.06114862114191055
+        },
+        "improved_artists": 7,
+        "declined_artists": 1
+      },
+      "hit1": {
+        "delta": 0.21875,
+        "ci95": [
+          0.0,
+          0.46875
+        ],
+        "by_artist": {
+          "e20": 0.25,
+          "feiyu30903448": 0,
+          "hazakura_hinata": -0.25,
+          "matsukuzu": 0,
+          "murase48": 1,
+          "rokugou_daisuke": 0.5,
+          "ryosios": 0,
+          "yamanashi_taiki": 0.25
+        },
+        "improved_artists": 4,
+        "declined_artists": 1
+      },
+      "raw_style": {
+        "delta": -0.015632906928658485,
+        "ci95": [
+          -0.030606314539909363,
+          -0.0006467811763286591
+        ],
+        "by_artist": {
+          "e20": -0.015894770622253418,
+          "feiyu30903448": -0.026419296860694885,
+          "hazakura_hinata": -0.04142649471759796,
+          "matsukuzu": -0.007635235786437988,
+          "murase48": 0.022275760769844055,
+          "rokugou_daisuke": 0.002738639712333679,
+          "ryosios": -0.00887995958328247,
+          "yamanashi_taiki": -0.049821898341178894
+        },
+        "improved_artists": 2,
+        "declined_artists": 6
+      },
+      "raw_hit1": {
+        "delta": 0.0,
+        "ci95": [
+          -0.09375,
+          0.09375
+        ],
+        "by_artist": {
+          "e20": 0,
+          "feiyu30903448": 0,
+          "hazakura_hinata": 0,
+          "matsukuzu": 0,
+          "murase48": -0.25,
+          "rokugou_daisuke": 0.25,
+          "ryosios": 0,
+          "yamanashi_taiki": 0
+        },
+        "improved_artists": 1,
+        "declined_artists": 1
+      },
+      "content": {
+        "delta": 0.00021697580814361572,
+        "ci95": [
+          -0.01412881724536419,
+          0.015575142577290535
+        ],
+        "by_artist": {
+          "e20": -0.0021622776985168457,
+          "feiyu30903448": -0.011491268873214722,
+          "hazakura_hinata": -0.0026496201753616333,
+          "matsukuzu": -0.0010976195335388184,
+          "murase48": -0.0020610690116882324,
+          "rokugou_daisuke": -0.03752562403678894,
+          "ryosios": 0.016358569264411926,
+          "yamanashi_taiki": 0.04236471652984619
+        },
+        "improved_artists": 2,
+        "declined_artists": 6
+      },
+      "reference_content": {
+        "delta": -0.012037578970193863,
+        "ci95": [
+          -0.026359024457633495,
+          0.0013623647391796112
+        ],
+        "by_artist": {
+          "e20": -0.0035711079835891724,
+          "feiyu30903448": -0.023555807769298553,
+          "hazakura_hinata": -0.04327481985092163,
+          "matsukuzu": -0.00036626309156417847,
+          "murase48": 0.021361619234085083,
+          "rokugou_daisuke": -0.003598615527153015,
+          "ryosios": -0.003879271447658539,
+          "yamanashi_taiki": -0.0394163653254509
+        },
+        "improved_artists": 1,
+        "declined_artists": 7
+      }
+    },
+    "G256_t2_g5.5": {
+      "style": {
+        "delta": 0.148538569919765,
+        "ci95": [
+          0.08555665332823992,
+          0.20436477311886847
+        ],
+        "by_artist": {
+          "e20": 0.21404159255325794,
+          "feiyu30903448": 0.14883645437657833,
+          "hazakura_hinata": 0.04591713100671768,
+          "matsukuzu": 0.1298171579837799,
+          "murase48": 0.210227707400918,
+          "rokugou_daisuke": 0.2632104307413101,
+          "ryosios": -0.014946699142456055,
+          "yamanashi_taiki": 0.19120478443801403
+        },
+        "improved_artists": 7,
+        "declined_artists": 1
+      },
+      "hit1": {
+        "delta": 0.28125,
+        "ci95": [
+          -0.0625,
+          0.59375
+        ],
+        "by_artist": {
+          "e20": 0.5,
+          "feiyu30903448": -0.25,
+          "hazakura_hinata": 0,
+          "matsukuzu": 0.5,
+          "murase48": 0.75,
+          "rokugou_daisuke": 1,
+          "ryosios": -0.5,
+          "yamanashi_taiki": 0.25
+        },
+        "improved_artists": 5,
+        "declined_artists": 2
+      },
+      "raw_style": {
+        "delta": -0.011786178685724735,
+        "ci95": [
+          -0.035782335326075554,
+          0.011627620086073875
+        ],
+        "by_artist": {
+          "e20": -0.046915434300899506,
+          "feiyu30903448": -0.05022616684436798,
+          "hazakura_hinata": 0.018347591161727905,
+          "matsukuzu": -0.06018704175949097,
+          "murase48": -0.014609351754188538,
+          "rokugou_daisuke": 0.023973479866981506,
+          "ryosios": 0.0020891278982162476,
+          "yamanashi_taiki": 0.03323836624622345
+        },
+        "improved_artists": 4,
+        "declined_artists": 4
+      },
+      "raw_hit1": {
+        "delta": 0.125,
+        "ci95": [
+          0,
+          0.3125
+        ],
+        "by_artist": {
+          "e20": 0,
+          "feiyu30903448": 0,
+          "hazakura_hinata": 0,
+          "matsukuzu": 0,
+          "murase48": 0,
+          "rokugou_daisuke": 0.75,
+          "ryosios": 0.25,
+          "yamanashi_taiki": 0
+        },
+        "improved_artists": 2,
+        "declined_artists": 0
+      },
+      "content": {
+        "delta": -0.019150255247950554,
+        "ci95": [
+          -0.03462466597557068,
+          -0.002645350992679596
+        ],
+        "by_artist": {
+          "e20": -0.02421794831752777,
+          "feiyu30903448": -0.05183790624141693,
+          "hazakura_hinata": 0.0019005686044692993,
+          "matsukuzu": -0.03636637330055237,
+          "murase48": -0.007844433188438416,
+          "rokugou_daisuke": -0.04340645670890808,
+          "ryosios": 0.022745877504348755,
+          "yamanashi_taiki": -0.014175370335578918
+        },
+        "improved_artists": 2,
+        "declined_artists": 6
+      },
+      "reference_content": {
+        "delta": -0.011016732081770897,
+        "ci95": [
+          -0.029930549673736095,
+          0.0073583368211984634
+        ],
+        "by_artist": {
+          "e20": -0.030680321156978607,
+          "feiyu30903448": -0.0516071692109108,
+          "hazakura_hinata": -0.008016258478164673,
+          "matsukuzu": -0.0430745929479599,
+          "murase48": -0.011900611221790314,
+          "rokugou_daisuke": 0.014487624168395996,
+          "ryosios": 0.014935918152332306,
+          "yamanashi_taiki": 0.027721554040908813
+        },
+        "improved_artists": 3,
+        "declined_artists": 5
+      }
+    }
+  },
+  "checkpoint_metrics": {
+    "dev256": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.29776503425091505,
+        "hit1": 0.375,
+        "raw_style": 0.5738044306635857,
+        "raw_hit1": 0.25,
+        "content": 0.7770596891641617,
+        "reference_content": 0.4908281285315752
+      }
+    },
+    "dev512": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.3155006393790245,
+        "hit1": 0.5,
+        "raw_style": 0.592079003341496,
+        "raw_hit1": 0.25,
+        "content": 0.775903845205903,
+        "reference_content": 0.5082342075183988
+      }
+    },
+    "dev1024": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.3204396362416446,
+        "hit1": 0.4375,
+        "raw_style": 0.5761260576546192,
+        "raw_hit1": 0.21875,
+        "content": 0.7658061925321817,
+        "reference_content": 0.49614838790148497
+      }
+    },
+    "dev2048": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.33970269467681646,
+        "hit1": 0.46875,
+        "raw_style": 0.5681503592059016,
+        "raw_hit1": 0.21875,
+        "content": 0.772654240950942,
+        "reference_content": 0.4909376883879304
+      }
+    }
+  },
+  "grid": {
+    "Z3_t2_g3": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.276777686085552,
+        "hit1": 0.34375,
+        "raw_style": 0.5774982310831547,
+        "raw_hit1": 0.21875,
+        "content": 0.779343917965889,
+        "reference_content": 0.5031183687970042
+      }
+    },
+    "Z3_t2_g5.5": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.3060749042779207,
+        "hit1": 0.3125,
+        "raw_style": 0.5824499484151602,
+        "raw_hit1": 0.21875,
+        "content": 0.7714557200670242,
+        "reference_content": 0.5039458302780986
+      }
+    },
+    "Z3_t2_g8": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.3123929766006768,
+        "hit1": 0.34375,
+        "raw_style": 0.5740219932049513,
+        "raw_hit1": 0.1875,
+        "content": 0.7553299143910408,
+        "reference_content": 0.49380065593868494
+      }
+    },
+    "Z3_t5.5_g3": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.26199075672775507,
+        "hit1": 0.3125,
+        "raw_style": 0.5736686885356903,
+        "raw_hit1": 0.125,
+        "content": 0.7949968874454498,
+        "reference_content": 0.4957465846091509
+      }
+    },
+    "Z3_t5.5_g5.5": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.3055445426143706,
+        "hit1": 0.375,
+        "raw_style": 0.5712538734078407,
+        "raw_hit1": 0.21875,
+        "content": 0.7915632538497448,
+        "reference_content": 0.4940231991931796
+      }
+    },
+    "Z3_t5.5_g8": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.3117950540035963,
+        "hit1": 0.34375,
+        "raw_style": 0.5729579487815499,
+        "raw_hit1": 0.25,
+        "content": 0.7859821878373623,
+        "reference_content": 0.4958880031481385
+      }
+    },
+    "P256_t2_g3": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.24413653719238937,
+        "hit1": 0.28125,
+        "raw_style": 0.581836543045938,
+        "raw_hit1": 0.125,
+        "content": 0.7793513871729374,
+        "reference_content": 0.49993952736258507
+      }
+    },
+    "P256_t2_g5.5": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.257453553378582,
+        "hit1": 0.25,
+        "raw_style": 0.5837832661345601,
+        "raw_hit1": 0.21875,
+        "content": 0.7724372651427984,
+        "reference_content": 0.5029752673581243
+      }
+    },
+    "P256_t2_g8": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.26112405117601156,
+        "hit1": 0.3125,
+        "raw_style": 0.5864928783848882,
+        "raw_hit1": 0.25,
+        "content": 0.7680214215070009,
+        "reference_content": 0.5062326015904546
+      }
+    },
+    "P256_t5.5_g3": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.23353392025455832,
+        "hit1": 0.28125,
+        "raw_style": 0.5759375663474202,
+        "raw_hit1": 0.125,
+        "content": 0.7936535589396954,
+        "reference_content": 0.4997291127219796
+      }
+    },
+    "P256_t5.5_g5.5": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.25911280885338783,
+        "hit1": 0.28125,
+        "raw_style": 0.5689394669607282,
+        "raw_hit1": 0.15625,
+        "content": 0.7859900407493114,
+        "reference_content": 0.4853022499009967
+      }
+    },
+    "P256_t5.5_g8": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.2667670240625739,
+        "hit1": 0.21875,
+        "raw_style": 0.5720628648996353,
+        "raw_hit1": 0.15625,
+        "content": 0.7822812963277102,
+        "reference_content": 0.48952897172421217
+      }
+    },
+    "G256_t2_g3": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.17830803245306015,
+        "hit1": 0.125,
+        "raw_style": 0.5815578475594521,
+        "raw_hit1": 0.0625,
+        "content": 0.7915887422859669,
+        "reference_content": 0.5039511239156127
+      }
+    },
+    "G256_t2_g5.5": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.19116412475705147,
+        "hit1": 0.1875,
+        "raw_style": 0.5799365378916264,
+        "raw_hit1": 0.09375,
+        "content": 0.7918044961988926,
+        "reference_content": 0.5019544204697013
+      }
+    },
+    "G256_t2_g8": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.19999543041922152,
+        "hit1": 0.1875,
+        "raw_style": 0.5755793564021587,
+        "raw_hit1": 0.09375,
+        "content": 0.792162224650383,
+        "reference_content": 0.4990440048277378
+      }
+    },
+    "G256_t5.5_g3": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.1783080892637372,
+        "hit1": 0.15625,
+        "raw_style": 0.5748571325093508,
+        "raw_hit1": 0.125,
+        "content": 0.7971308045089245,
+        "reference_content": 0.4968019789084792
+      }
+    },
+    "G256_t5.5_g5.5": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.17627428122796118,
+        "hit1": 0.09375,
+        "raw_style": 0.5714717479422688,
+        "raw_hit1": 0.09375,
+        "content": 0.802280105650425,
+        "reference_content": 0.49009019508957863
+      }
+    },
+    "G256_t5.5_g8": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.19307968765497208,
+        "hit1": 0.09375,
+        "raw_style": 0.5716404281556606,
+        "raw_hit1": 0.125,
+        "content": 0.7995759751647711,
+        "reference_content": 0.4910303633660078
+      }
+    },
+    "Z3C_t2_g3": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.2953150325920433,
+        "hit1": 0.4375,
+        "raw_style": 0.5743073839694262,
+        "raw_hit1": 0.21875,
+        "content": 0.7840676438063383,
+        "reference_content": 0.49802094604820013
+      }
+    },
+    "Z3C_t2_g5.5": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.33970269467681646,
+        "hit1": 0.46875,
+        "raw_style": 0.5681503592059016,
+        "raw_hit1": 0.21875,
+        "content": 0.772654240950942,
+        "reference_content": 0.4909376883879304
+      }
+    },
+    "Z3C_t2_g8": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.33668733900412917,
+        "hit1": 0.5625,
+        "raw_style": 0.5706821558997035,
+        "raw_hit1": 0.21875,
+        "content": 0.761900631710887,
+        "reference_content": 0.4942032815888524
+      }
+    },
+    "Z3C_t5.5_g3": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.28309315140359104,
+        "hit1": 0.3125,
+        "raw_style": 0.5758985131978989,
+        "raw_hit1": 0.1875,
+        "content": 0.7986916024237871,
+        "reference_content": 0.498018485493958
+      }
+    },
+    "Z3C_t5.5_g5.5": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.3157352418638766,
+        "hit1": 0.4375,
+        "raw_style": 0.5692069521173835,
+        "raw_hit1": 0.1875,
+        "content": 0.7953053060919046,
+        "reference_content": 0.4929596930742264
+      }
+    },
+    "Z3C_t5.5_g8": {
+      "images": 32,
+      "failures": 0,
+      "metrics": {
+        "style": 0.32983747543767095,
+        "hit1": 0.5,
+        "raw_style": 0.5708597144111991,
+        "raw_hit1": 0.1875,
+        "content": 0.7859180886298418,
+        "reference_content": 0.4931610031053424
+      }
+    }
+  },
+  "style_metric_only_best": {
+    "Z3": "Z3_t2_g8",
+    "Z3C": "Z3C_t2_g5.5",
+    "P256": "P256_t5.5_g8",
+    "G256": "G256_t2_g8"
+  },
+  "selected_grid_contrast_exploratory": {
+    "style": {
+      "delta": 0.02730971807613969,
+      "ci95": [
+        0.005010074935853481,
+        0.050969977397471666
+      ],
+      "by_artist": {
+        "e20": 0.04389781504869461,
+        "feiyu30903448": 0.046892665326595306,
+        "hazakura_hinata": -0.021142542362213135,
+        "matsukuzu": 0.012695733457803726,
+        "murase48": -0.007948212325572968,
+        "rokugou_daisuke": 0.08897967636585236,
+        "ryosios": 0.009819820523262024,
+        "yamanashi_taiki": 0.04528278857469559
+      },
+      "improved_artists": 6,
+      "declined_artists": 2
+    },
+    "hit1": {
+      "delta": 0.125,
+      "ci95": [
+        0.03125,
+        0.25
+      ],
+      "by_artist": {
+        "e20": 0.5,
+        "feiyu30903448": 0,
+        "hazakura_hinata": 0,
+        "matsukuzu": 0.25,
+        "murase48": 0.25,
+        "rokugou_daisuke": 0,
+        "ryosios": 0,
+        "yamanashi_taiki": 0
+      },
+      "improved_artists": 3,
+      "declined_artists": 0
+    },
+    "raw_style": {
+      "delta": -0.0058716339990496635,
+      "ci95": [
+        -0.02566617727279663,
+        0.011379135772585869
+      ],
+      "by_artist": {
+        "e20": 0.006997428834438324,
+        "feiyu30903448": -0.006023690104484558,
+        "hazakura_hinata": 0.008710280060768127,
+        "matsukuzu": -0.06138579547405243,
+        "murase48": -0.016284450888633728,
+        "rokugou_daisuke": 0.025031253695487976,
+        "ryosios": -0.02866002917289734,
+        "yamanashi_taiki": 0.02464193105697632
+      },
+      "improved_artists": 4,
+      "declined_artists": 4
+    },
+    "raw_hit1": {
+      "delta": 0.03125,
+      "ci95": [
+        0,
+        0.09375
+      ],
+      "by_artist": {
+        "e20": 0,
+        "feiyu30903448": 0,
+        "hazakura_hinata": 0,
+        "matsukuzu": 0,
+        "murase48": 0,
+        "rokugou_daisuke": 0,
+        "ryosios": 0.25,
+        "yamanashi_taiki": 0
+      },
+      "improved_artists": 1,
+      "declined_artists": 0
+    },
+    "content": {
+      "delta": 0.017324326559901237,
+      "ci95": [
+        0.0052741412073373795,
+        0.02934240736067295
+      ],
+      "by_artist": {
+        "e20": 0.01021595299243927,
+        "feiyu30903448": -0.013582736253738403,
+        "hazakura_hinata": 0.020216286182403564,
+        "matsukuzu": 0.0064832717180252075,
+        "murase48": 0.04571746289730072,
+        "rokugou_daisuke": 0.017113149166107178,
+        "ryosios": 0.0404200404882431,
+        "yamanashi_taiki": 0.01201118528842926
+      },
+      "improved_artists": 7,
+      "declined_artists": 1
+    },
+    "reference_content": {
+      "delta": -0.002862967550754547,
+      "ci95": [
+        -0.018199533224105835,
+        0.009950630366802216
+      ],
+      "by_artist": {
+        "e20": -0.004729464650154114,
+        "feiyu30903448": 0.004763446748256683,
+        "hazakura_hinata": 0.00021716207265853882,
+        "matsukuzu": -0.04718555510044098,
+        "murase48": -0.013281546533107758,
+        "rokugou_daisuke": 0.01509198546409607,
+        "ryosios": -0.0036117956042289734,
+        "yamanashi_taiki": 0.025832027196884155
+      },
+      "improved_artists": 4,
+      "declined_artists": 4
+    }
+  },
+  "bootstrap": "Paired artist macro means; 8 artists; random.Random(20261009).choices; 10000 resamples; sorted indices 249/9749. Exploratory, no multiple-comparison correction.",
+  "limits": [
+    "Single training seed, 8 development artists, 4 shared content images, generation seed 17.",
+    "Artist encoder is shared with conditioning; raw DINO scores are content-sensitive.",
+    "Zero generation errors does not imply zero visual damage or reference copying.",
+    "Training FM means are on differing training samples, not a held-out loss.",
+    "No human ratings yet for Z3 continuation; sealed confirmation remains unopened."
+  ],
+  "promotion": false
+}

@@ -1,0 +1,11 @@
+{"step": 1000, "style": 0.30322265625, "hit1": 0.5, "lr_reduced": false, "schedule": {"best": 0.33978271484375, "bad": 1, "cooldown": 0, "multiplier": 1.0, "reductions": 0}}
+{"step": 2000, "style": 0.308929443359375, "hit1": 0.625, "lr_reduced": false, "schedule": {"best": 0.33978271484375, "bad": 2, "cooldown": 0, "multiplier": 1.0, "reductions": 0}}
+{"step": 3000, "style": 0.31561279296875, "hit1": 0.625, "lr_reduced": true, "schedule": {"best": 0.33978271484375, "bad": 0, "cooldown": 1, "multiplier": 0.5, "reductions": 1}}
+{"step": 4000, "style": 0.3187255859375, "hit1": 0.53125, "lr_reduced": false, "schedule": {"best": 0.33978271484375, "bad": 0, "cooldown": 0, "multiplier": 0.5, "reductions": 1}}
+{"step": 5000, "style": 0.3255615234375, "hit1": 0.625, "lr_reduced": false, "schedule": {"best": 0.33978271484375, "bad": 1, "cooldown": 0, "multiplier": 0.5, "reductions": 1}}
+{"step": 6000, "style": 0.321380615234375, "hit1": 0.625, "lr_reduced": false, "schedule": {"best": 0.33978271484375, "bad": 2, "cooldown": 0, "multiplier": 0.5, "reductions": 1}}
+{"step": 7000, "style": 0.3162384033203125, "hit1": 0.59375, "lr_reduced": true, "schedule": {"best": 0.33978271484375, "bad": 0, "cooldown": 1, "multiplier": 0.25, "reductions": 2}}
+{"step": 8000, "style": 0.315673828125, "hit1": 0.5625, "lr_reduced": false, "schedule": {"best": 0.33978271484375, "bad": 0, "cooldown": 0, "multiplier": 0.25, "reductions": 2}}
+{"step": 9000, "style": 0.326507568359375, "hit1": 0.59375, "lr_reduced": false, "schedule": {"best": 0.33978271484375, "bad": 1, "cooldown": 0, "multiplier": 0.25, "reductions": 2}}
+{"step": 10000, "style": 0.32952880859375, "hit1": 0.65625, "lr_reduced": false, "schedule": {"best": 0.33978271484375, "bad": 2, "cooldown": 0, "multiplier": 0.25, "reductions": 2}}
+{"step": 11000, "style": 0.336761474609375, "hit1": 0.71875, "lr_reduced": true, "schedule": {"best": 0.33978271484375, "bad": 0, "cooldown": 1, "multiplier": 0.125, "reductions": 3}}

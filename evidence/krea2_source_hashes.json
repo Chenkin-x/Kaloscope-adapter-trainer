@@ -1,0 +1,10 @@
+{
+  "note": "Local inspected musubi source snapshot. Git metadata unavailable; no upstream commit identity claimed. Hash differences require native parity tests.",
+  "files": {
+    "krea2/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "krea2/krea2_encoder.py": "c18ec0609a5071cea2461ae3a0fe0982204d5187c87c72d329c71c95c89c6a1a",
+    "krea2/krea2_mmdit.py": "c5795c9f7566ca1fbf138f381b3fc43da08081cff9a1a719bc0a5266d1a10326",
+    "krea2/krea2_sampling.py": "e846baca4e46ce5f2ef4be20df88b10d0c97a82f1a335ade38d99b2299396f68",
+    "krea2/krea2_utils.py": "1c10b05e60e0b0feb4e40f058bfd4bfb57383da0a5c6f5b629bcb65abb002ac5"
+  }
+}

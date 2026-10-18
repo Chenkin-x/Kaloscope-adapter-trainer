@@ -1,0 +1,96 @@
+{
+  "assets": [
+    {
+      "id": "train_artist_a_target",
+      "path": "../data/train_artist_a_target.png",
+      "artist": "artist_a",
+      "family": "train_artist_a_target",
+      "split": "train"
+    },
+    {
+      "id": "train_artist_a_reference",
+      "path": "../data/train_artist_a_reference.png",
+      "artist": "artist_a",
+      "family": "train_artist_a_reference",
+      "split": "train"
+    },
+    {
+      "id": "train_artist_b_target",
+      "path": "../data/train_artist_b_target.png",
+      "artist": "artist_b",
+      "family": "train_artist_b_target",
+      "split": "train"
+    },
+    {
+      "id": "train_artist_b_reference",
+      "path": "../data/train_artist_b_reference.png",
+      "artist": "artist_b",
+      "family": "train_artist_b_reference",
+      "split": "train"
+    },
+    {
+      "id": "dev_artist_a_target",
+      "path": "../data/dev_artist_a_target.png",
+      "artist": "artist_a",
+      "family": "dev_artist_a_target",
+      "split": "dev"
+    },
+    {
+      "id": "dev_artist_a_reference",
+      "path": "../data/dev_artist_a_reference.png",
+      "artist": "artist_a",
+      "family": "dev_artist_a_reference",
+      "split": "dev"
+    },
+    {
+      "id": "dev_artist_b_target",
+      "path": "../data/dev_artist_b_target.png",
+      "artist": "artist_b",
+      "family": "dev_artist_b_target",
+      "split": "dev"
+    },
+    {
+      "id": "dev_artist_b_reference",
+      "path": "../data/dev_artist_b_reference.png",
+      "artist": "artist_b",
+      "family": "dev_artist_b_reference",
+      "split": "dev"
+    }
+  ],
+  "train": [
+    {
+      "id": "train_artist_a",
+      "target": "train_artist_a_target",
+      "references": [
+        "train_artist_a_reference"
+      ],
+      "prompt": "a person reading a book in a garden"
+    },
+    {
+      "id": "train_artist_b",
+      "target": "train_artist_b_target",
+      "references": [
+        "train_artist_b_reference"
+      ],
+      "prompt": "a person reading a book in a garden"
+    }
+  ],
+  "dev": [
+    {
+      "id": "dev_artist_a",
+      "target": "dev_artist_a_target",
+      "references": [
+        "dev_artist_a_reference"
+      ],
+      "prompt": "a person reading a book in a garden"
+    },
+    {
+      "id": "dev_artist_b",
+      "target": "dev_artist_b_target",
+      "references": [
+        "dev_artist_b_reference"
+      ],
+      "prompt": "a person reading a book in a garden"
+    }
+  ]
+}

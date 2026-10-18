@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-17",
+  "tests": {
+    "passed": 11,
+    "skipped": 0,
+    "scope": "CPU native Krea2/MOSS tiny models, frozen-base gradients, checkpoint parity, deterministic trainer resume, uneven two-process DDP, dropout-off control"
+  },
+  "real_artist_v1_cpu": {
+    "shape": [
+      1,
+      256
+    ],
+    "norm": 1.0,
+    "parity_max_abs": 0.0
+  },
+  "cuda_available": false,
+  "real_large_model_gpu_run": false,
+  "historical_evidence_rerun": false,
+  "wheel_build": true,
+  "lint": true,
+  "isolated_wheel_import": true,
+  "cli_help": [
+    "prepare",
+    "train",
+    "infer",
+    "evaluate",
+    "export"
+  ],
+  "vendor_licenses_in_wheel": true,
+  "export_tensor_roundtrip": true,
+  "publication_verification": {
+    "date": "2026-10-18",
+    "source_files": 88,
+    "archive_model_imports": true,
+    "root_only_model_asset_exclusion": true,
+    "git_and_environment_exclusion": true
+  }
+}

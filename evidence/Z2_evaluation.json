@@ -1,0 +1,2306 @@
+{
+  "rows": [
+    {
+      "artist": "goma_(gomasamune)",
+      "adapter_seen": true,
+      "source": 0,
+      "ids": {
+        "native": "43df88f4efe052f5d6cd",
+        "single": "74cbf667bcccb4aec70e",
+        "blankstyle": "d00f1cb2771ca7daa3f2"
+      },
+      "scores": {
+        "native": {
+          "style": 0.18768447637557983,
+          "margin": 0.02449268102645874,
+          "hit1": 0,
+          "content": 0.7428395748138428,
+          "reference_content_similarity": 0.21093249320983887
+        },
+        "single": {
+          "style": 0.2064751833677292,
+          "margin": -0.007869482040405273,
+          "hit1": 0,
+          "content": 0.7413290739059448,
+          "reference_content_similarity": 0.2660980224609375
+        },
+        "blankstyle": {
+          "style": 0.19715505838394165,
+          "margin": 0.004349157214164734,
+          "hit1": 0,
+          "content": 0.6764845848083496,
+          "reference_content_similarity": 0.2619366943836212
+        }
+      }
+    },
+    {
+      "artist": "goma_(gomasamune)",
+      "adapter_seen": true,
+      "source": 1,
+      "ids": {
+        "native": "dbaab32b964bbe4d0c8e",
+        "single": "342dcd253f834fb641f8",
+        "blankstyle": "e2167f36b0db60ec6ab8"
+      },
+      "scores": {
+        "native": {
+          "style": 0.16591256856918335,
+          "margin": -0.026741638779640198,
+          "hit1": 0,
+          "content": 0.7455883026123047,
+          "reference_content_similarity": 0.19774529337882996
+        },
+        "single": {
+          "style": 0.17943938076496124,
+          "margin": -0.07460196316242218,
+          "hit1": 0,
+          "content": 0.8542773723602295,
+          "reference_content_similarity": 0.1994956135749817
+        },
+        "blankstyle": {
+          "style": 0.1548803150653839,
+          "margin": -0.07393211126327515,
+          "hit1": 0,
+          "content": 0.726129949092865,
+          "reference_content_similarity": 0.2095060795545578
+        }
+      }
+    },
+    {
+      "artist": "goma_(gomasamune)",
+      "adapter_seen": true,
+      "source": 2,
+      "ids": {
+        "native": "081643066f7f06f55bc5",
+        "single": "28c0eacb514f7fb499d7",
+        "blankstyle": "d968425dbdbd36c6a12c"
+      },
+      "scores": {
+        "native": {
+          "style": 0.1424350142478943,
+          "margin": -0.029345139861106873,
+          "hit1": 0,
+          "content": 0.7951197028160095,
+          "reference_content_similarity": 0.23020780086517334
+        },
+        "single": {
+          "style": 0.19481895864009857,
+          "margin": -0.031325116753578186,
+          "hit1": 0,
+          "content": 0.7740186452865601,
+          "reference_content_similarity": 0.25571131706237793
+        },
+        "blankstyle": {
+          "style": 0.20040728151798248,
+          "margin": -0.024648010730743408,
+          "hit1": 0,
+          "content": 0.7514666318893433,
+          "reference_content_similarity": 0.26162922382354736
+        }
+      }
+    },
+    {
+      "artist": "goma_(gomasamune)",
+      "adapter_seen": true,
+      "source": 3,
+      "ids": {
+        "native": "a3349614fb90d6a1fd0b",
+        "single": "77bccdff57a06f7423b6",
+        "blankstyle": "a113a8a275f676a75019"
+      },
+      "scores": {
+        "native": {
+          "style": 0.24481524527072906,
+          "margin": 0.055752143263816833,
+          "hit1": 0,
+          "content": 0.6110786199569702,
+          "reference_content_similarity": 0.2493354082107544
+        },
+        "single": {
+          "style": 0.2000814974308014,
+          "margin": -0.07218706607818604,
+          "hit1": 0,
+          "content": 0.6962035894393921,
+          "reference_content_similarity": 0.22913239896297455
+        },
+        "blankstyle": {
+          "style": 0.1574106365442276,
+          "margin": -0.12121550738811493,
+          "hit1": 0,
+          "content": 0.6658897399902344,
+          "reference_content_similarity": 0.2560197114944458
+        }
+      }
+    },
+    {
+      "artist": "kozakura_(dictionary)",
+      "adapter_seen": true,
+      "source": 4,
+      "ids": {
+        "native": "464b80ac878cb016c1f6",
+        "single": "db751a5d335bac12f8a7",
+        "blankstyle": "56a0568509f4817b0963"
+      },
+      "scores": {
+        "native": {
+          "style": 0.20019954442977905,
+          "margin": -0.025545910000801086,
+          "hit1": 0,
+          "content": 0.6405335068702698,
+          "reference_content_similarity": 0.4797564744949341
+        },
+        "single": {
+          "style": 0.34262940287590027,
+          "margin": 0.09241488575935364,
+          "hit1": 0,
+          "content": 0.6621614694595337,
+          "reference_content_similarity": 0.4840030372142792
+        },
+        "blankstyle": {
+          "style": 0.351062148809433,
+          "margin": 0.12197437882423401,
+          "hit1": 1,
+          "content": 0.6146810054779053,
+          "reference_content_similarity": 0.547653079032898
+        }
+      }
+    },
+    {
+      "artist": "kozakura_(dictionary)",
+      "adapter_seen": true,
+      "source": 5,
+      "ids": {
+        "native": "94b9194a521de3fb6fcd",
+        "single": "9fac1e59813d4a1dd0db",
+        "blankstyle": "7167569fdbed023611e5"
+      },
+      "scores": {
+        "native": {
+          "style": 0.3141169250011444,
+          "margin": 0.1668054163455963,
+          "hit1": 1,
+          "content": 0.7865766286849976,
+          "reference_content_similarity": 0.6043100357055664
+        },
+        "single": {
+          "style": 0.48200470209121704,
+          "margin": 0.27430325746536255,
+          "hit1": 1,
+          "content": 0.737433671951294,
+          "reference_content_similarity": 0.624940037727356
+        },
+        "blankstyle": {
+          "style": 0.4282144606113434,
+          "margin": 0.25123411417007446,
+          "hit1": 1,
+          "content": 0.7506561279296875,
+          "reference_content_similarity": 0.7010713815689087
+        }
+      }
+    },
+    {
+      "artist": "kozakura_(dictionary)",
+      "adapter_seen": true,
+      "source": 6,
+      "ids": {
+        "native": "3f8eb74d3a895a0a811c",
+        "single": "b9fceea688e01c4fa655",
+        "blankstyle": "99b9bc0076699b8cd12a"
+      },
+      "scores": {
+        "native": {
+          "style": 0.1449604481458664,
+          "margin": -0.04508659243583679,
+          "hit1": 0,
+          "content": 0.8656109571456909,
+          "reference_content_similarity": 0.5110700130462646
+        },
+        "single": {
+          "style": 0.34769970178604126,
+          "margin": 0.1162196695804596,
+          "hit1": 0,
+          "content": 0.8954987525939941,
+          "reference_content_similarity": 0.5585633516311646
+        },
+        "blankstyle": {
+          "style": 0.38489001989364624,
+          "margin": 0.14085933566093445,
+          "hit1": 0,
+          "content": 0.9009585976600647,
+          "reference_content_similarity": 0.5774427652359009
+        }
+      }
+    },
+    {
+      "artist": "kozakura_(dictionary)",
+      "adapter_seen": true,
+      "source": 7,
+      "ids": {
+        "native": "d016f405d7cb1097697e",
+        "single": "2866fc8d7ffddf261a7b",
+        "blankstyle": "164c79c456d220f818ab"
+      },
+      "scores": {
+        "native": {
+          "style": 0.1169346272945404,
+          "margin": -0.08891390264034271,
+          "hit1": 0,
+          "content": 0.7883720397949219,
+          "reference_content_similarity": 0.7361190319061279
+        },
+        "single": {
+          "style": 0.3552788197994232,
+          "margin": 0.14806801080703735,
+          "hit1": 0,
+          "content": 0.8200220465660095,
+          "reference_content_similarity": 0.8062464594841003
+        },
+        "blankstyle": {
+          "style": 0.3444575071334839,
+          "margin": 0.16061903536319733,
+          "hit1": 0,
+          "content": 0.8311814069747925,
+          "reference_content_similarity": 0.7827761173248291
+        }
+      }
+    },
+    {
+      "artist": "meito_(maze)",
+      "adapter_seen": true,
+      "source": 8,
+      "ids": {
+        "native": "7d351e76048eac653a21",
+        "single": "cf31db00ce7c3c69d938",
+        "blankstyle": "dbeb741dd2e5e476f77b"
+      },
+      "scores": {
+        "native": {
+          "style": 0.1262824833393097,
+          "margin": -0.07625864446163177,
+          "hit1": 0,
+          "content": 0.7468177080154419,
+          "reference_content_similarity": 0.5416455864906311
+        },
+        "single": {
+          "style": 0.2569621205329895,
+          "margin": 0.0012079179286956787,
+          "hit1": 0,
+          "content": 0.7816067934036255,
+          "reference_content_similarity": 0.5411474704742432
+        },
+        "blankstyle": {
+          "style": 0.17505091428756714,
+          "margin": -0.0675630271434784,
+          "hit1": 0,
+          "content": 0.752984881401062,
+          "reference_content_similarity": 0.5367483496665955
+        }
+      }
+    },
+    {
+      "artist": "meito_(maze)",
+      "adapter_seen": true,
+      "source": 9,
+      "ids": {
+        "native": "b64ab4f309dd5ef85b69",
+        "single": "8a05ad80ae6001090e09",
+        "blankstyle": "db1ddc7f642efcac453e"
+      },
+      "scores": {
+        "native": {
+          "style": 0.1366681158542633,
+          "margin": -0.03246252238750458,
+          "hit1": 0,
+          "content": 0.7322438955307007,
+          "reference_content_similarity": 0.4938667416572571
+        },
+        "single": {
+          "style": 0.17914769053459167,
+          "margin": -0.048924028873443604,
+          "hit1": 0,
+          "content": 0.8010456562042236,
+          "reference_content_similarity": 0.5173165202140808
+        },
+        "blankstyle": {
+          "style": 0.34685370326042175,
+          "margin": 0.10148163139820099,
+          "hit1": 0,
+          "content": 0.7451424598693848,
+          "reference_content_similarity": 0.525854766368866
+        }
+      }
+    },
+    {
+      "artist": "meito_(maze)",
+      "adapter_seen": true,
+      "source": 10,
+      "ids": {
+        "native": "27f436239f765beb33dd",
+        "single": "12f079c70c8affc5b1c3",
+        "blankstyle": "03971b06beceb8c32f69"
+      },
+      "scores": {
+        "native": {
+          "style": 0.1883157640695572,
+          "margin": 0.040631622076034546,
+          "hit1": 0,
+          "content": 0.8784492015838623,
+          "reference_content_similarity": 0.4208749532699585
+        },
+        "single": {
+          "style": 0.33952707052230835,
+          "margin": 0.07531100511550903,
+          "hit1": 0,
+          "content": 0.8780832290649414,
+          "reference_content_similarity": 0.4387408494949341
+        },
+        "blankstyle": {
+          "style": 0.30165553092956543,
+          "margin": 0.07595004141330719,
+          "hit1": 0,
+          "content": 0.8654748201370239,
+          "reference_content_similarity": 0.3975958824157715
+        }
+      }
+    },
+    {
+      "artist": "meito_(maze)",
+      "adapter_seen": true,
+      "source": 11,
+      "ids": {
+        "native": "b84daede36395d1dbd11",
+        "single": "14acd2af4290c7dedca1",
+        "blankstyle": "619e5d747eda8c84aa9d"
+      },
+      "scores": {
+        "native": {
+          "style": 0.19939842820167542,
+          "margin": -0.0060555338859558105,
+          "hit1": 0,
+          "content": 0.7623130083084106,
+          "reference_content_similarity": 0.6133447885513306
+        },
+        "single": {
+          "style": 0.2534816861152649,
+          "margin": 0.014146625995635986,
+          "hit1": 0,
+          "content": 0.7964009642601013,
+          "reference_content_similarity": 0.6403012275695801
+        },
+        "blankstyle": {
+          "style": 0.23935718834400177,
+          "margin": 0.0021721869707107544,
+          "hit1": 0,
+          "content": 0.787873387336731,
+          "reference_content_similarity": 0.6512579917907715
+        }
+      }
+    },
+    {
+      "artist": "maka_(maka04021)",
+      "adapter_seen": true,
+      "source": 12,
+      "ids": {
+        "native": "b21168b62a30221eac68",
+        "single": "b0fb001a1f193c61868c",
+        "blankstyle": "c4c0b1ad7f777ec6325a"
+      },
+      "scores": {
+        "native": {
+          "style": 0.20445716381072998,
+          "margin": -0.024217307567596436,
+          "hit1": 0,
+          "content": 0.6653450727462769,
+          "reference_content_similarity": 0.33297789096832275
+        },
+        "single": {
+          "style": 0.23399007320404053,
+          "margin": -0.011800095438957214,
+          "hit1": 0,
+          "content": 0.6854611039161682,
+          "reference_content_similarity": 0.38106948137283325
+        },
+        "blankstyle": {
+          "style": 0.2013072371482849,
+          "margin": -0.0399932861328125,
+          "hit1": 0,
+          "content": 0.6464514136314392,
+          "reference_content_similarity": 0.39716553688049316
+        }
+      }
+    },
+    {
+      "artist": "maka_(maka04021)",
+      "adapter_seen": true,
+      "source": 13,
+      "ids": {
+        "native": "45c4982df034c748bfd8",
+        "single": "98c18ba5aeae0b801d4b",
+        "blankstyle": "418839b0d89d7d3b52c8"
+      },
+      "scores": {
+        "native": {
+          "style": 0.08889418095350266,
+          "margin": -0.08180094510316849,
+          "hit1": 0,
+          "content": 0.6632793545722961,
+          "reference_content_similarity": 0.5433465242385864
+        },
+        "single": {
+          "style": 0.25950485467910767,
+          "margin": 0.010674387216567993,
+          "hit1": 0,
+          "content": 0.7811267971992493,
+          "reference_content_similarity": 0.6164471507072449
+        },
+        "blankstyle": {
+          "style": 0.28305763006210327,
+          "margin": 0.016753792762756348,
+          "hit1": 0,
+          "content": 0.6639043092727661,
+          "reference_content_similarity": 0.5504566431045532
+        }
+      }
+    },
+    {
+      "artist": "maka_(maka04021)",
+      "adapter_seen": true,
+      "source": 14,
+      "ids": {
+        "native": "6d49f96db541ad488f9d",
+        "single": "98d1dac36a5000b5747a",
+        "blankstyle": "5f833d6263cb22f816a3"
+      },
+      "scores": {
+        "native": {
+          "style": 0.25670182704925537,
+          "margin": 0.08941210806369781,
+          "hit1": 0,
+          "content": 0.8788006901741028,
+          "reference_content_similarity": 0.4778539538383484
+        },
+        "single": {
+          "style": 0.5191683769226074,
+          "margin": 0.37547850608825684,
+          "hit1": 1,
+          "content": 0.8964436054229736,
+          "reference_content_similarity": 0.5242741703987122
+        },
+        "blankstyle": {
+          "style": 0.5500121116638184,
+          "margin": 0.3866245448589325,
+          "hit1": 1,
+          "content": 0.888049840927124,
+          "reference_content_similarity": 0.4753378927707672
+        }
+      }
+    },
+    {
+      "artist": "maka_(maka04021)",
+      "adapter_seen": true,
+      "source": 15,
+      "ids": {
+        "native": "e13980e9f619cb6fda4f",
+        "single": "f4a1fa66b9eae942bfb3",
+        "blankstyle": "c892e9476990d82c521c"
+      },
+      "scores": {
+        "native": {
+          "style": 0.1702360361814499,
+          "margin": -0.011349260807037354,
+          "hit1": 0,
+          "content": 0.736406147480011,
+          "reference_content_similarity": 0.6235877275466919
+        },
+        "single": {
+          "style": 0.5131480693817139,
+          "margin": 0.3091052174568176,
+          "hit1": 1,
+          "content": 0.7830324172973633,
+          "reference_content_similarity": 0.6310103535652161
+        },
+        "blankstyle": {
+          "style": 0.3742421269416809,
+          "margin": 0.14217403531074524,
+          "hit1": 1,
+          "content": 0.7665785551071167,
+          "reference_content_similarity": 0.6383592486381531
+        }
+      }
+    },
+    {
+      "artist": "rnna",
+      "adapter_seen": true,
+      "source": 16,
+      "ids": {
+        "native": "300f7ca93e969784ee82",
+        "single": "657cf905f745f9ace694",
+        "blankstyle": "3b05e886b3d46fbd7cf6"
+      },
+      "scores": {
+        "native": {
+          "style": 0.14921532571315765,
+          "margin": 0.021357491612434387,
+          "hit1": 0,
+          "content": 0.5813913345336914,
+          "reference_content_similarity": 0.4943554997444153
+        },
+        "single": {
+          "style": 0.2807621955871582,
+          "margin": 0.058468908071517944,
+          "hit1": 0,
+          "content": 0.6827565431594849,
+          "reference_content_similarity": 0.6146316528320312
+        },
+        "blankstyle": {
+          "style": 0.2440280169248581,
+          "margin": 0.009325340390205383,
+          "hit1": 0,
+          "content": 0.6830816268920898,
+          "reference_content_similarity": 0.503770112991333
+        }
+      }
+    },
+    {
+      "artist": "rnna",
+      "adapter_seen": true,
+      "source": 17,
+      "ids": {
+        "native": "22a19a22fe907c0ddfe2",
+        "single": "d182ba974207c900b9fa",
+        "blankstyle": "6a70e956ae374cd09396"
+      },
+      "scores": {
+        "native": {
+          "style": 0.18178170919418335,
+          "margin": 0.020583376288414,
+          "hit1": 0,
+          "content": 0.7407330274581909,
+          "reference_content_similarity": 0.5324684977531433
+        },
+        "single": {
+          "style": 0.1727544665336609,
+          "margin": -0.058892622590065,
+          "hit1": 0,
+          "content": 0.7030982375144958,
+          "reference_content_similarity": 0.4992256164550781
+        },
+        "blankstyle": {
+          "style": 0.11732558161020279,
+          "margin": -0.09333915263414383,
+          "hit1": 0,
+          "content": 0.7322244644165039,
+          "reference_content_similarity": 0.5343010425567627
+        }
+      }
+    },
+    {
+      "artist": "rnna",
+      "adapter_seen": true,
+      "source": 18,
+      "ids": {
+        "native": "ea6223cfeebc0d874a4a",
+        "single": "952cee51ad63968e0d94",
+        "blankstyle": "67f40eca2c37662ffaed"
+      },
+      "scores": {
+        "native": {
+          "style": 0.16275765001773834,
+          "margin": 0.012958765029907227,
+          "hit1": 0,
+          "content": 0.8835383653640747,
+          "reference_content_similarity": 0.3848164677619934
+        },
+        "single": {
+          "style": 0.2468651682138443,
+          "margin": 0.03195178508758545,
+          "hit1": 0,
+          "content": 0.8828666806221008,
+          "reference_content_similarity": 0.37344807386398315
+        },
+        "blankstyle": {
+          "style": 0.19270044565200806,
+          "margin": 0.003905773162841797,
+          "hit1": 0,
+          "content": 0.8672275543212891,
+          "reference_content_similarity": 0.3564482629299164
+        }
+      }
+    },
+    {
+      "artist": "rnna",
+      "adapter_seen": true,
+      "source": 19,
+      "ids": {
+        "native": "ccf3639ad439be0c06e8",
+        "single": "036e6b7bae94f2abf843",
+        "blankstyle": "14ee4571e2e29472b831"
+      },
+      "scores": {
+        "native": {
+          "style": 0.13519340753555298,
+          "margin": -0.04690760374069214,
+          "hit1": 0,
+          "content": 0.7853260636329651,
+          "reference_content_similarity": 0.5941856503486633
+        },
+        "single": {
+          "style": 0.3017345666885376,
+          "margin": 0.05284564197063446,
+          "hit1": 0,
+          "content": 0.735335648059845,
+          "reference_content_similarity": 0.601948082447052
+        },
+        "blankstyle": {
+          "style": 0.29332178831100464,
+          "margin": 0.05096310377120972,
+          "hit1": 0,
+          "content": 0.8111284375190735,
+          "reference_content_similarity": 0.613205075263977
+        }
+      }
+    },
+    {
+      "artist": "tanabe_(fueisei)",
+      "adapter_seen": true,
+      "source": 20,
+      "ids": {
+        "native": "903b930411eae05bb671",
+        "single": "651e109818604988ae44",
+        "blankstyle": "8c9214687245d64c9db8"
+      },
+      "scores": {
+        "native": {
+          "style": 0.22450712323188782,
+          "margin": 0.0023650527000427246,
+          "hit1": 0,
+          "content": 0.6899290680885315,
+          "reference_content_similarity": 0.40880435705184937
+        },
+        "single": {
+          "style": 0.4177837371826172,
+          "margin": 0.15113693475723267,
+          "hit1": 0,
+          "content": 0.6746166348457336,
+          "reference_content_similarity": 0.5033464431762695
+        },
+        "blankstyle": {
+          "style": 0.3594570755958557,
+          "margin": 0.09448394179344177,
+          "hit1": 0,
+          "content": 0.6822667121887207,
+          "reference_content_similarity": 0.466453492641449
+        }
+      }
+    },
+    {
+      "artist": "tanabe_(fueisei)",
+      "adapter_seen": true,
+      "source": 21,
+      "ids": {
+        "native": "63029a0d55a59f25967a",
+        "single": "939f44b09c0fcd0e6693",
+        "blankstyle": "a0df6d1b72d4dd14464e"
+      },
+      "scores": {
+        "native": {
+          "style": 0.021755710244178772,
+          "margin": -0.17035315930843353,
+          "hit1": 0,
+          "content": 0.690960705280304,
+          "reference_content_similarity": 0.6676233410835266
+        },
+        "single": {
+          "style": 0.2919839918613434,
+          "margin": 0.0446481853723526,
+          "hit1": 0,
+          "content": 0.7320545315742493,
+          "reference_content_similarity": 0.6458220481872559
+        },
+        "blankstyle": {
+          "style": 0.3144840598106384,
+          "margin": 0.04130697250366211,
+          "hit1": 0,
+          "content": 0.7106069326400757,
+          "reference_content_similarity": 0.6327371597290039
+        }
+      }
+    },
+    {
+      "artist": "tanabe_(fueisei)",
+      "adapter_seen": true,
+      "source": 22,
+      "ids": {
+        "native": "098fb30715232d8ed26a",
+        "single": "d3ef0eede442935e81c5",
+        "blankstyle": "3237630dbeb38e6bf33a"
+      },
+      "scores": {
+        "native": {
+          "style": 0.0077216727659106255,
+          "margin": -0.16023103892803192,
+          "hit1": 0,
+          "content": 0.8400063514709473,
+          "reference_content_similarity": 0.46913599967956543
+        },
+        "single": {
+          "style": 0.19641141593456268,
+          "margin": -0.0632673054933548,
+          "hit1": 0,
+          "content": 0.873210072517395,
+          "reference_content_similarity": 0.4333306550979614
+        },
+        "blankstyle": {
+          "style": 0.19224919378757477,
+          "margin": -0.031316906213760376,
+          "hit1": 0,
+          "content": 0.8527959585189819,
+          "reference_content_similarity": 0.4756922423839569
+        }
+      }
+    },
+    {
+      "artist": "tanabe_(fueisei)",
+      "adapter_seen": true,
+      "source": 23,
+      "ids": {
+        "native": "2bd06a2645b67b64fd63",
+        "single": "f36789c90c5f4f3e744c",
+        "blankstyle": "c6c09938c6d4a2189e0e"
+      },
+      "scores": {
+        "native": {
+          "style": 0.0439913347363472,
+          "margin": -0.14713674783706665,
+          "hit1": 0,
+          "content": 0.7203524708747864,
+          "reference_content_similarity": 0.6443451642990112
+        },
+        "single": {
+          "style": 0.25261572003364563,
+          "margin": 0.036221593618392944,
+          "hit1": 0,
+          "content": 0.7400974035263062,
+          "reference_content_similarity": 0.6565976738929749
+        },
+        "blankstyle": {
+          "style": 0.2840926945209503,
+          "margin": 0.06517457962036133,
+          "hit1": 0,
+          "content": 0.7538356184959412,
+          "reference_content_similarity": 0.6821994781494141
+        }
+      }
+    },
+    {
+      "artist": "horikou",
+      "adapter_seen": true,
+      "source": 24,
+      "ids": {
+        "native": "b29115f779b4182a27e3",
+        "single": "87a0752d031f5b80c2f8",
+        "blankstyle": "107a1d0e5e180daa9408"
+      },
+      "scores": {
+        "native": {
+          "style": 0.26517099142074585,
+          "margin": 0.04165808856487274,
+          "hit1": 0,
+          "content": 0.6927734613418579,
+          "reference_content_similarity": 0.2472407966852188
+        },
+        "single": {
+          "style": 0.3049421012401581,
+          "margin": 0.05783182382583618,
+          "hit1": 0,
+          "content": 0.6234791874885559,
+          "reference_content_similarity": 0.2833614945411682
+        },
+        "blankstyle": {
+          "style": 0.22426296770572662,
+          "margin": -0.0434563010931015,
+          "hit1": 0,
+          "content": 0.6823827028274536,
+          "reference_content_similarity": 0.2713063657283783
+        }
+      }
+    },
+    {
+      "artist": "horikou",
+      "adapter_seen": true,
+      "source": 25,
+      "ids": {
+        "native": "4494ac85174c20845435",
+        "single": "4e59bcd01833dea83c43",
+        "blankstyle": "dc6e14d78dc265ec0440"
+      },
+      "scores": {
+        "native": {
+          "style": 0.26700687408447266,
+          "margin": 0.09153245389461517,
+          "hit1": 0,
+          "content": 0.7329252362251282,
+          "reference_content_similarity": 0.35587620735168457
+        },
+        "single": {
+          "style": 0.2304827719926834,
+          "margin": 0.01733247935771942,
+          "hit1": 0,
+          "content": 0.7222447395324707,
+          "reference_content_similarity": 0.34289583563804626
+        },
+        "blankstyle": {
+          "style": 0.25702980160713196,
+          "margin": 0.019808515906333923,
+          "hit1": 0,
+          "content": 0.7436873912811279,
+          "reference_content_similarity": 0.37314289808273315
+        }
+      }
+    },
+    {
+      "artist": "horikou",
+      "adapter_seen": true,
+      "source": 26,
+      "ids": {
+        "native": "d524b27975eacf268e18",
+        "single": "38eb49cdd6a12998c08a",
+        "blankstyle": "174b130bf160c17842b5"
+      },
+      "scores": {
+        "native": {
+          "style": 0.2213822305202484,
+          "margin": 0.004923507571220398,
+          "hit1": 0,
+          "content": 0.8871685266494751,
+          "reference_content_similarity": 0.3446630537509918
+        },
+        "single": {
+          "style": 0.2809373140335083,
+          "margin": 0.04723276197910309,
+          "hit1": 0,
+          "content": 0.8392635583877563,
+          "reference_content_similarity": 0.30318960547447205
+        },
+        "blankstyle": {
+          "style": 0.27128592133522034,
+          "margin": 0.0586831271648407,
+          "hit1": 0,
+          "content": 0.8699551820755005,
+          "reference_content_similarity": 0.3117339313030243
+        }
+      }
+    },
+    {
+      "artist": "horikou",
+      "adapter_seen": true,
+      "source": 27,
+      "ids": {
+        "native": "a43185c90c9e87611098",
+        "single": "5ba18c9d0e90ed856669",
+        "blankstyle": "da725fb9be8b3a48e357"
+      },
+      "scores": {
+        "native": {
+          "style": 0.2147737443447113,
+          "margin": 0.017799153923988342,
+          "hit1": 0,
+          "content": 0.7765781879425049,
+          "reference_content_similarity": 0.39745569229125977
+        },
+        "single": {
+          "style": 0.2983229458332062,
+          "margin": 0.05270373821258545,
+          "hit1": 0,
+          "content": 0.7936438322067261,
+          "reference_content_similarity": 0.40700554847717285
+        },
+        "blankstyle": {
+          "style": 0.2571229040622711,
+          "margin": 0.0413823276758194,
+          "hit1": 0,
+          "content": 0.8188484311103821,
+          "reference_content_similarity": 0.41288429498672485
+        }
+      }
+    },
+    {
+      "artist": "coroha",
+      "adapter_seen": true,
+      "source": 28,
+      "ids": {
+        "native": "871e66ecdc28e3db831d",
+        "single": "526f84d332e406c15bc9",
+        "blankstyle": "043dc8461b7c9318d52a"
+      },
+      "scores": {
+        "native": {
+          "style": 0.2763426601886749,
+          "margin": 0.05097845196723938,
+          "hit1": 0,
+          "content": 0.7022101879119873,
+          "reference_content_similarity": 0.6325559020042419
+        },
+        "single": {
+          "style": 0.43264296650886536,
+          "margin": 0.1488909125328064,
+          "hit1": 0,
+          "content": 0.6603350639343262,
+          "reference_content_similarity": 0.5914878845214844
+        },
+        "blankstyle": {
+          "style": 0.40756967663764954,
+          "margin": 0.132137268781662,
+          "hit1": 0,
+          "content": 0.6868411302566528,
+          "reference_content_similarity": 0.6404505968093872
+        }
+      }
+    },
+    {
+      "artist": "coroha",
+      "adapter_seen": true,
+      "source": 29,
+      "ids": {
+        "native": "40e908b7568a59f89555",
+        "single": "9768959e319728f81146",
+        "blankstyle": "8d5c354ef92ec4426a33"
+      },
+      "scores": {
+        "native": {
+          "style": 0.05898984521627426,
+          "margin": -0.0786573514342308,
+          "hit1": 0,
+          "content": 0.7075695395469666,
+          "reference_content_similarity": 0.6298118829727173
+        },
+        "single": {
+          "style": 0.501088559627533,
+          "margin": 0.28486424684524536,
+          "hit1": 1,
+          "content": 0.712990403175354,
+          "reference_content_similarity": 0.6714280843734741
+        },
+        "blankstyle": {
+          "style": 0.32145556807518005,
+          "margin": 0.13717332482337952,
+          "hit1": 0,
+          "content": 0.6974020600318909,
+          "reference_content_similarity": 0.678908109664917
+        }
+      }
+    },
+    {
+      "artist": "coroha",
+      "adapter_seen": true,
+      "source": 30,
+      "ids": {
+        "native": "11db60617465b67b3c5a",
+        "single": "6a106b0df6c9b9c24470",
+        "blankstyle": "198dd1d5a22c9a0794cc"
+      },
+      "scores": {
+        "native": {
+          "style": 0.10450005531311035,
+          "margin": -0.06407809257507324,
+          "hit1": 0,
+          "content": 0.8659543991088867,
+          "reference_content_similarity": 0.4033983051776886
+        },
+        "single": {
+          "style": 0.33657485246658325,
+          "margin": 0.09308600425720215,
+          "hit1": 1,
+          "content": 0.8381530046463013,
+          "reference_content_similarity": 0.3932214677333832
+        },
+        "blankstyle": {
+          "style": 0.4382561445236206,
+          "margin": 0.18168887495994568,
+          "hit1": 1,
+          "content": 0.8466609716415405,
+          "reference_content_similarity": 0.3921307325363159
+        }
+      }
+    },
+    {
+      "artist": "coroha",
+      "adapter_seen": true,
+      "source": 31,
+      "ids": {
+        "native": "92b24a610ea8ec1f8aa8",
+        "single": "50575441cda11e68ec2a",
+        "blankstyle": "76dab3ddf737387c6cf0"
+      },
+      "scores": {
+        "native": {
+          "style": 0.21828240156173706,
+          "margin": 0.002720251679420471,
+          "hit1": 0,
+          "content": 0.7380509376525879,
+          "reference_content_similarity": 0.629104495048523
+        },
+        "single": {
+          "style": 0.39043593406677246,
+          "margin": 0.16222938895225525,
+          "hit1": 1,
+          "content": 0.6442477703094482,
+          "reference_content_similarity": 0.6264791488647461
+        },
+        "blankstyle": {
+          "style": 0.45839405059814453,
+          "margin": 0.24128064513206482,
+          "hit1": 1,
+          "content": 0.6904845237731934,
+          "reference_content_similarity": 0.6385485529899597
+        }
+      }
+    },
+    {
+      "artist": "matsukuzu",
+      "adapter_seen": false,
+      "source": 32,
+      "ids": {
+        "native": "69af34c60137276625b8",
+        "single": "4ee9e65effef85a9061f",
+        "blankstyle": "50f3b996b631b4f1a361"
+      },
+      "scores": {
+        "native": {
+          "style": 0.24310606718063354,
+          "margin": 0.03902839124202728,
+          "hit1": 0,
+          "content": 0.7161705493927002,
+          "reference_content_similarity": 0.4846721887588501
+        },
+        "single": {
+          "style": 0.2697409987449646,
+          "margin": 0.000325620174407959,
+          "hit1": 0,
+          "content": 0.6548998355865479,
+          "reference_content_similarity": 0.5769361853599548
+        },
+        "blankstyle": {
+          "style": 0.30158722400665283,
+          "margin": 0.0534946471452713,
+          "hit1": 0,
+          "content": 0.6795007586479187,
+          "reference_content_similarity": 0.4978897273540497
+        }
+      }
+    },
+    {
+      "artist": "matsukuzu",
+      "adapter_seen": false,
+      "source": 33,
+      "ids": {
+        "native": "67b2b688a5bf00e209a9",
+        "single": "e78be22f31636e164f82",
+        "blankstyle": "c61db484196f9744e01f"
+      },
+      "scores": {
+        "native": {
+          "style": 0.19068914651870728,
+          "margin": 0.027400285005569458,
+          "hit1": 0,
+          "content": 0.8070361614227295,
+          "reference_content_similarity": 0.577461302280426
+        },
+        "single": {
+          "style": 0.3234374523162842,
+          "margin": 0.05083724856376648,
+          "hit1": 0,
+          "content": 0.7651883959770203,
+          "reference_content_similarity": 0.6313618421554565
+        },
+        "blankstyle": {
+          "style": 0.2959638833999634,
+          "margin": 0.020205289125442505,
+          "hit1": 0,
+          "content": 0.785190761089325,
+          "reference_content_similarity": 0.626775860786438
+        }
+      }
+    },
+    {
+      "artist": "matsukuzu",
+      "adapter_seen": false,
+      "source": 34,
+      "ids": {
+        "native": "568055d97dfa4da99a75",
+        "single": "edc3ba69362cc712ed99",
+        "blankstyle": "59ffeacfd18f40282f6d"
+      },
+      "scores": {
+        "native": {
+          "style": 0.14924348890781403,
+          "margin": -0.0410768985748291,
+          "hit1": 0,
+          "content": 0.887150764465332,
+          "reference_content_similarity": 0.49542832374572754
+        },
+        "single": {
+          "style": 0.2952952980995178,
+          "margin": 0.06193041801452637,
+          "hit1": 0,
+          "content": 0.888891339302063,
+          "reference_content_similarity": 0.48535794019699097
+        },
+        "blankstyle": {
+          "style": 0.2543761730194092,
+          "margin": -0.016669154167175293,
+          "hit1": 0,
+          "content": 0.8977625370025635,
+          "reference_content_similarity": 0.4947815537452698
+        }
+      }
+    },
+    {
+      "artist": "matsukuzu",
+      "adapter_seen": false,
+      "source": 35,
+      "ids": {
+        "native": "68f1169a824ac9f43a39",
+        "single": "7defbf8557ba713c0a76",
+        "blankstyle": "9c80abf641a3fcfa451e"
+      },
+      "scores": {
+        "native": {
+          "style": 0.1617145985364914,
+          "margin": -0.0018608421087265015,
+          "hit1": 0,
+          "content": 0.801056981086731,
+          "reference_content_similarity": 0.7786411046981812
+        },
+        "single": {
+          "style": 0.3083561658859253,
+          "margin": 0.08820919692516327,
+          "hit1": 0,
+          "content": 0.7561154365539551,
+          "reference_content_similarity": 0.7096360921859741
+        },
+        "blankstyle": {
+          "style": 0.312419593334198,
+          "margin": 0.10170689225196838,
+          "hit1": 1,
+          "content": 0.7006000280380249,
+          "reference_content_similarity": 0.7040139436721802
+        }
+      }
+    },
+    {
+      "artist": "yamanashi_taiki",
+      "adapter_seen": false,
+      "source": 36,
+      "ids": {
+        "native": "de6354458cd06e10bbbf",
+        "single": "f8f868c4579f042bb12a",
+        "blankstyle": "8e63d562b1d02025376d"
+      },
+      "scores": {
+        "native": {
+          "style": 0.17245277762413025,
+          "margin": -0.048591092228889465,
+          "hit1": 0,
+          "content": 0.6197763085365295,
+          "reference_content_similarity": 0.26965489983558655
+        },
+        "single": {
+          "style": 0.27980145812034607,
+          "margin": -0.017335474491119385,
+          "hit1": 0,
+          "content": 0.6907904744148254,
+          "reference_content_similarity": 0.29502198100090027
+        },
+        "blankstyle": {
+          "style": 0.219829723238945,
+          "margin": -0.05515967309474945,
+          "hit1": 0,
+          "content": 0.6484445333480835,
+          "reference_content_similarity": 0.33225783705711365
+        }
+      }
+    },
+    {
+      "artist": "yamanashi_taiki",
+      "adapter_seen": false,
+      "source": 37,
+      "ids": {
+        "native": "5f2ac12f70c581b649d8",
+        "single": "5b0c4a17840d4e9b894e",
+        "blankstyle": "42557b758d6452155926"
+      },
+      "scores": {
+        "native": {
+          "style": 0.2363187074661255,
+          "margin": 0.07544831931591034,
+          "hit1": 0,
+          "content": 0.742232084274292,
+          "reference_content_similarity": 0.27741384506225586
+        },
+        "single": {
+          "style": 0.418392539024353,
+          "margin": 0.15045595169067383,
+          "hit1": 1,
+          "content": 0.7281825542449951,
+          "reference_content_similarity": 0.28520968556404114
+        },
+        "blankstyle": {
+          "style": 0.26424849033355713,
+          "margin": 0.04575259983539581,
+          "hit1": 0,
+          "content": 0.7102803587913513,
+          "reference_content_similarity": 0.31145215034484863
+        }
+      }
+    },
+    {
+      "artist": "yamanashi_taiki",
+      "adapter_seen": false,
+      "source": 38,
+      "ids": {
+        "native": "2bd35c7208f447eb2852",
+        "single": "cba1eae1697cdb0d5b83",
+        "blankstyle": "6b3c923c5d4352839188"
+      },
+      "scores": {
+        "native": {
+          "style": 0.24293315410614014,
+          "margin": 0.052554890513420105,
+          "hit1": 0,
+          "content": 0.854932427406311,
+          "reference_content_similarity": 0.32684627175331116
+        },
+        "single": {
+          "style": 0.3250228464603424,
+          "margin": 0.08129449188709259,
+          "hit1": 0,
+          "content": 0.8795241117477417,
+          "reference_content_similarity": 0.3129805326461792
+        },
+        "blankstyle": {
+          "style": 0.34587109088897705,
+          "margin": 0.11137703061103821,
+          "hit1": 0,
+          "content": 0.8861843943595886,
+          "reference_content_similarity": 0.3188188374042511
+        }
+      }
+    },
+    {
+      "artist": "yamanashi_taiki",
+      "adapter_seen": false,
+      "source": 39,
+      "ids": {
+        "native": "be9f478c7d6438914d69",
+        "single": "4a38aebce35cf2208ec2",
+        "blankstyle": "59783e8bf23f25efeff8"
+      },
+      "scores": {
+        "native": {
+          "style": 0.1815575361251831,
+          "margin": -0.03507460653781891,
+          "hit1": 0,
+          "content": 0.8115015625953674,
+          "reference_content_similarity": 0.4436086118221283
+        },
+        "single": {
+          "style": 0.24017857015132904,
+          "margin": 0.012924328446388245,
+          "hit1": 0,
+          "content": 0.821722149848938,
+          "reference_content_similarity": 0.5147945880889893
+        },
+        "blankstyle": {
+          "style": 0.2948289215564728,
+          "margin": 0.021969735622406006,
+          "hit1": 0,
+          "content": 0.8038403987884521,
+          "reference_content_similarity": 0.41468945145606995
+        }
+      }
+    },
+    {
+      "artist": "rokugou_daisuke",
+      "adapter_seen": false,
+      "source": 40,
+      "ids": {
+        "native": "76c933c0f65db60758f7",
+        "single": "52b72a48cbb9176938ff",
+        "blankstyle": "7fb55f3f2227be4242e2"
+      },
+      "scores": {
+        "native": {
+          "style": 0.2100292295217514,
+          "margin": -0.02365259826183319,
+          "hit1": 0,
+          "content": 0.7743314504623413,
+          "reference_content_similarity": 0.4553719162940979
+        },
+        "single": {
+          "style": 0.17409498989582062,
+          "margin": -0.04199421405792236,
+          "hit1": 0,
+          "content": 0.7355701923370361,
+          "reference_content_similarity": 0.5244548916816711
+        },
+        "blankstyle": {
+          "style": 0.24944564700126648,
+          "margin": 0.023037463426589966,
+          "hit1": 0,
+          "content": 0.7400375604629517,
+          "reference_content_similarity": 0.4857825040817261
+        }
+      }
+    },
+    {
+      "artist": "rokugou_daisuke",
+      "adapter_seen": false,
+      "source": 41,
+      "ids": {
+        "native": "1a2851eea444f2eff7a2",
+        "single": "b0a5313765c42952c7e7",
+        "blankstyle": "d6a68ebbec1393526acf"
+      },
+      "scores": {
+        "native": {
+          "style": 0.0815090760588646,
+          "margin": -0.06615052372217178,
+          "hit1": 0,
+          "content": 0.6800225973129272,
+          "reference_content_similarity": 0.6566218137741089
+        },
+        "single": {
+          "style": 0.40406739711761475,
+          "margin": 0.13450980186462402,
+          "hit1": 1,
+          "content": 0.688448965549469,
+          "reference_content_similarity": 0.6459369659423828
+        },
+        "blankstyle": {
+          "style": 0.34182021021842957,
+          "margin": 0.09331335127353668,
+          "hit1": 0,
+          "content": 0.6795707941055298,
+          "reference_content_similarity": 0.6511590480804443
+        }
+      }
+    },
+    {
+      "artist": "rokugou_daisuke",
+      "adapter_seen": false,
+      "source": 42,
+      "ids": {
+        "native": "b522b93059b56b714704",
+        "single": "49e1042e28866585aee9",
+        "blankstyle": "4627c0da0f89e4861963"
+      },
+      "scores": {
+        "native": {
+          "style": 0.2193479984998703,
+          "margin": 0.0635596513748169,
+          "hit1": 0,
+          "content": 0.8863848447799683,
+          "reference_content_similarity": 0.4781957268714905
+        },
+        "single": {
+          "style": 0.30294355750083923,
+          "margin": 0.06667475402355194,
+          "hit1": 0,
+          "content": 0.8600187301635742,
+          "reference_content_similarity": 0.44727861881256104
+        },
+        "blankstyle": {
+          "style": 0.37122777104377747,
+          "margin": 0.1021360456943512,
+          "hit1": 0,
+          "content": 0.8678410053253174,
+          "reference_content_similarity": 0.4388790428638458
+        }
+      }
+    },
+    {
+      "artist": "rokugou_daisuke",
+      "adapter_seen": false,
+      "source": 43,
+      "ids": {
+        "native": "5d1780831d7c4127f17a",
+        "single": "dedb32ab8da420094146",
+        "blankstyle": "997554864251fd30005e"
+      },
+      "scores": {
+        "native": {
+          "style": 0.20638349652290344,
+          "margin": 0.02396988868713379,
+          "hit1": 0,
+          "content": 0.8323945999145508,
+          "reference_content_similarity": 0.5840926170349121
+        },
+        "single": {
+          "style": 0.2220064103603363,
+          "margin": -0.036508142948150635,
+          "hit1": 0,
+          "content": 0.7888531684875488,
+          "reference_content_similarity": 0.64678955078125
+        },
+        "blankstyle": {
+          "style": 0.299803227186203,
+          "margin": 0.05459342896938324,
+          "hit1": 0,
+          "content": 0.8121899366378784,
+          "reference_content_similarity": 0.6246368885040283
+        }
+      }
+    },
+    {
+      "artist": "ryosios",
+      "adapter_seen": false,
+      "source": 44,
+      "ids": {
+        "native": "30a9c67ed07ff8be2ad7",
+        "single": "260af7f2df178a512d7d",
+        "blankstyle": "74db69e83ac3e1aa98db"
+      },
+      "scores": {
+        "native": {
+          "style": 0.06123487278819084,
+          "margin": -0.1607210785150528,
+          "hit1": 0,
+          "content": 0.7123144865036011,
+          "reference_content_similarity": 0.27438926696777344
+        },
+        "single": {
+          "style": 0.06352313607931137,
+          "margin": -0.15109384059906006,
+          "hit1": 0,
+          "content": 0.7283103466033936,
+          "reference_content_similarity": 0.2657167613506317
+        },
+        "blankstyle": {
+          "style": 0.13766831159591675,
+          "margin": -0.09257493913173676,
+          "hit1": 0,
+          "content": 0.697335958480835,
+          "reference_content_similarity": 0.360562264919281
+        }
+      }
+    },
+    {
+      "artist": "ryosios",
+      "adapter_seen": false,
+      "source": 45,
+      "ids": {
+        "native": "48fdc98ea97350889d29",
+        "single": "80a7369217762d8b98a9",
+        "blankstyle": "e4eb2efad07dedf48832"
+      },
+      "scores": {
+        "native": {
+          "style": 0.2772231996059418,
+          "margin": 0.09659053385257721,
+          "hit1": 0,
+          "content": 0.7775864601135254,
+          "reference_content_similarity": 0.5056474208831787
+        },
+        "single": {
+          "style": 0.31117910146713257,
+          "margin": 0.043593257665634155,
+          "hit1": 0,
+          "content": 0.8210592865943909,
+          "reference_content_similarity": 0.5250921249389648
+        },
+        "blankstyle": {
+          "style": 0.4073728919029236,
+          "margin": 0.14451193809509277,
+          "hit1": 1,
+          "content": 0.7849034070968628,
+          "reference_content_similarity": 0.5227195024490356
+        }
+      }
+    },
+    {
+      "artist": "ryosios",
+      "adapter_seen": false,
+      "source": 46,
+      "ids": {
+        "native": "06b556d9b7c137fa379f",
+        "single": "7f1ec80f1aac1e11384c",
+        "blankstyle": "f6f2b84875b485bb97b3"
+      },
+      "scores": {
+        "native": {
+          "style": 0.08757434040307999,
+          "margin": -0.06839882582426071,
+          "hit1": 0,
+          "content": 0.890818178653717,
+          "reference_content_similarity": 0.3585345149040222
+        },
+        "single": {
+          "style": 0.09505189955234528,
+          "margin": -0.11042781174182892,
+          "hit1": 0,
+          "content": 0.8901475667953491,
+          "reference_content_similarity": 0.35256171226501465
+        },
+        "blankstyle": {
+          "style": 0.13624589145183563,
+          "margin": -0.08199143409729004,
+          "hit1": 0,
+          "content": 0.8779637813568115,
+          "reference_content_similarity": 0.34847158193588257
+        }
+      }
+    },
+    {
+      "artist": "ryosios",
+      "adapter_seen": false,
+      "source": 47,
+      "ids": {
+        "native": "5a86959207de03582e03",
+        "single": "1399e7e8e188daf947bb",
+        "blankstyle": "6f8e883210de3b21c7a8"
+      },
+      "scores": {
+        "native": {
+          "style": 0.2122790664434433,
+          "margin": -0.033381298184394836,
+          "hit1": 0,
+          "content": 0.7753337025642395,
+          "reference_content_similarity": 0.4958856403827667
+        },
+        "single": {
+          "style": 0.0675434023141861,
+          "margin": -0.17433896660804749,
+          "hit1": 0,
+          "content": 0.7487351894378662,
+          "reference_content_similarity": 0.5116420984268188
+        },
+        "blankstyle": {
+          "style": 0.16063354909420013,
+          "margin": -0.04003322124481201,
+          "hit1": 0,
+          "content": 0.756264328956604,
+          "reference_content_similarity": 0.5255516767501831
+        }
+      }
+    },
+    {
+      "artist": "hazakura_hinata",
+      "adapter_seen": false,
+      "source": 48,
+      "ids": {
+        "native": "fd72eb2206095413e929",
+        "single": "7dd29e38b5d86a939bf6",
+        "blankstyle": "eb3f8e17964e586012f3"
+      },
+      "scores": {
+        "native": {
+          "style": 0.17734913527965546,
+          "margin": -0.05500251054763794,
+          "hit1": 0,
+          "content": 0.727471113204956,
+          "reference_content_similarity": 0.42438405752182007
+        },
+        "single": {
+          "style": 0.2058534324169159,
+          "margin": -0.02628357708454132,
+          "hit1": 0,
+          "content": 0.7498509883880615,
+          "reference_content_similarity": 0.4432697892189026
+        },
+        "blankstyle": {
+          "style": 0.15785954892635345,
+          "margin": -0.09478054940700531,
+          "hit1": 0,
+          "content": 0.7458698749542236,
+          "reference_content_similarity": 0.4451947510242462
+        }
+      }
+    },
+    {
+      "artist": "hazakura_hinata",
+      "adapter_seen": false,
+      "source": 49,
+      "ids": {
+        "native": "80b7429184a1759ec6af",
+        "single": "01b7ff00f2fef559630c",
+        "blankstyle": "62a8cc0542363d698412"
+      },
+      "scores": {
+        "native": {
+          "style": 0.1327308863401413,
+          "margin": -0.012521177530288696,
+          "hit1": 0,
+          "content": 0.6852856874465942,
+          "reference_content_similarity": 0.5163779258728027
+        },
+        "single": {
+          "style": 0.30117303133010864,
+          "margin": 0.03710499405860901,
+          "hit1": 0,
+          "content": 0.6908668279647827,
+          "reference_content_similarity": 0.5882298946380615
+        },
+        "blankstyle": {
+          "style": 0.33324307203292847,
+          "margin": 0.062064170837402344,
+          "hit1": 0,
+          "content": 0.6742650270462036,
+          "reference_content_similarity": 0.607586145401001
+        }
+      }
+    },
+    {
+      "artist": "hazakura_hinata",
+      "adapter_seen": false,
+      "source": 50,
+      "ids": {
+        "native": "ac7a564137cd55c6f3e2",
+        "single": "e0ebcacedf8af7ff606c",
+        "blankstyle": "9d2a0eeb3550b6b3cae7"
+      },
+      "scores": {
+        "native": {
+          "style": 0.23112045228481293,
+          "margin": 0.06390614807605743,
+          "hit1": 0,
+          "content": 0.8867208957672119,
+          "reference_content_similarity": 0.4626283645629883
+        },
+        "single": {
+          "style": 0.24955835938453674,
+          "margin": 0.04594530165195465,
+          "hit1": 0,
+          "content": 0.8934718370437622,
+          "reference_content_similarity": 0.4687582850456238
+        },
+        "blankstyle": {
+          "style": 0.2504771947860718,
+          "margin": 0.00852888822555542,
+          "hit1": 0,
+          "content": 0.8817194700241089,
+          "reference_content_similarity": 0.46309277415275574
+        }
+      }
+    },
+    {
+      "artist": "hazakura_hinata",
+      "adapter_seen": false,
+      "source": 51,
+      "ids": {
+        "native": "94db788d02301f8e7c97",
+        "single": "deb10747a50c118cc879",
+        "blankstyle": "b5d8b1d5e203c4bd7961"
+      },
+      "scores": {
+        "native": {
+          "style": 0.3488956391811371,
+          "margin": 0.1444604992866516,
+          "hit1": 1,
+          "content": 0.7851139903068542,
+          "reference_content_similarity": 0.6752856969833374
+        },
+        "single": {
+          "style": 0.23376376926898956,
+          "margin": 0.026018738746643066,
+          "hit1": 0,
+          "content": 0.8209197521209717,
+          "reference_content_similarity": 0.6798834800720215
+        },
+        "blankstyle": {
+          "style": 0.31663191318511963,
+          "margin": 0.10645502805709839,
+          "hit1": 0,
+          "content": 0.8354541063308716,
+          "reference_content_similarity": 0.6724767088890076
+        }
+      }
+    },
+    {
+      "artist": "e20",
+      "adapter_seen": false,
+      "source": 52,
+      "ids": {
+        "native": "38dca8c91426097f2cc2",
+        "single": "ab82e8a35566aff502d6",
+        "blankstyle": "1811027584747a4e572b"
+      },
+      "scores": {
+        "native": {
+          "style": 0.11477615684270859,
+          "margin": -0.14145797491073608,
+          "hit1": 0,
+          "content": 0.6230965256690979,
+          "reference_content_similarity": 0.6516847610473633
+        },
+        "single": {
+          "style": 0.23979194462299347,
+          "margin": 0.007450371980667114,
+          "hit1": 0,
+          "content": 0.6764752864837646,
+          "reference_content_similarity": 0.5743138790130615
+        },
+        "blankstyle": {
+          "style": 0.1896209865808487,
+          "margin": -0.0559198260307312,
+          "hit1": 0,
+          "content": 0.6568340063095093,
+          "reference_content_similarity": 0.6307684183120728
+        }
+      }
+    },
+    {
+      "artist": "e20",
+      "adapter_seen": false,
+      "source": 53,
+      "ids": {
+        "native": "37f3dc1be19f517cadf4",
+        "single": "12c380c61776819fb9a2",
+        "blankstyle": "a716ab6b0be5718381e4"
+      },
+      "scores": {
+        "native": {
+          "style": 0.006846154108643532,
+          "margin": -0.1055317297577858,
+          "hit1": 0,
+          "content": 0.7165254950523376,
+          "reference_content_similarity": 0.6183813810348511
+        },
+        "single": {
+          "style": 0.32350611686706543,
+          "margin": 0.1001969426870346,
+          "hit1": 0,
+          "content": 0.7102243900299072,
+          "reference_content_similarity": 0.654841423034668
+        },
+        "blankstyle": {
+          "style": 0.2745687663555145,
+          "margin": 0.05057118833065033,
+          "hit1": 0,
+          "content": 0.711685299873352,
+          "reference_content_similarity": 0.675930380821228
+        }
+      }
+    },
+    {
+      "artist": "e20",
+      "adapter_seen": false,
+      "source": 54,
+      "ids": {
+        "native": "9444057db1e3e118e2bc",
+        "single": "3c9bddb182f02f2a7283",
+        "blankstyle": "88c9a4a5ad8925ae0dcd"
+      },
+      "scores": {
+        "native": {
+          "style": 0.09544721245765686,
+          "margin": -0.03345160186290741,
+          "hit1": 0,
+          "content": 0.895028293132782,
+          "reference_content_similarity": 0.47029849886894226
+        },
+        "single": {
+          "style": 0.23160777986049652,
+          "margin": 0.02919626235961914,
+          "hit1": 0,
+          "content": 0.8853892087936401,
+          "reference_content_similarity": 0.46291276812553406
+        },
+        "blankstyle": {
+          "style": 0.19722196459770203,
+          "margin": -0.004831403493881226,
+          "hit1": 0,
+          "content": 0.895891010761261,
+          "reference_content_similarity": 0.462436318397522
+        }
+      }
+    },
+    {
+      "artist": "e20",
+      "adapter_seen": false,
+      "source": 55,
+      "ids": {
+        "native": "c7d84a8469daaec6814c",
+        "single": "5cf6f1180f3edf5cd08b",
+        "blankstyle": "b85687c120cdb3605118"
+      },
+      "scores": {
+        "native": {
+          "style": 0.019005898386240005,
+          "margin": -0.17265118658542633,
+          "hit1": 0,
+          "content": 0.7110331058502197,
+          "reference_content_similarity": 0.6830925941467285
+        },
+        "single": {
+          "style": 0.2606522738933563,
+          "margin": 0.04826977849006653,
+          "hit1": 0,
+          "content": 0.7617419958114624,
+          "reference_content_similarity": 0.758784294128418
+        },
+        "blankstyle": {
+          "style": 0.25040221214294434,
+          "margin": 0.03277595341205597,
+          "hit1": 0,
+          "content": 0.751380205154419,
+          "reference_content_similarity": 0.7265686392784119
+        }
+      }
+    },
+    {
+      "artist": "feiyu30903448",
+      "adapter_seen": false,
+      "source": 56,
+      "ids": {
+        "native": "a21651e50a0aeb59cbab",
+        "single": "37d9102b326ef8b330a6",
+        "blankstyle": "256fd9e6c9e50ac2509b"
+      },
+      "scores": {
+        "native": {
+          "style": 0.23685038089752197,
+          "margin": 0.06999386847019196,
+          "hit1": 0,
+          "content": 0.7140702605247498,
+          "reference_content_similarity": 0.29031503200531006
+        },
+        "single": {
+          "style": 0.282123327255249,
+          "margin": 0.0329841673374176,
+          "hit1": 0,
+          "content": 0.6991322040557861,
+          "reference_content_similarity": 0.357660710811615
+        },
+        "blankstyle": {
+          "style": 0.21252800524234772,
+          "margin": -0.02919095754623413,
+          "hit1": 0,
+          "content": 0.6941149830818176,
+          "reference_content_similarity": 0.29247042536735535
+        }
+      }
+    },
+    {
+      "artist": "feiyu30903448",
+      "adapter_seen": false,
+      "source": 57,
+      "ids": {
+        "native": "7f76a76e1a091c7fd29f",
+        "single": "f2bdbcb08a80c1ce86b9",
+        "blankstyle": "f35ab1cb2e0c79c1488a"
+      },
+      "scores": {
+        "native": {
+          "style": 0.09405063092708588,
+          "margin": -0.06615163385868073,
+          "hit1": 0,
+          "content": 0.7028752565383911,
+          "reference_content_similarity": 0.58172208070755
+        },
+        "single": {
+          "style": 0.18797168135643005,
+          "margin": -0.06497344374656677,
+          "hit1": 0,
+          "content": 0.7429476976394653,
+          "reference_content_similarity": 0.5942663550376892
+        },
+        "blankstyle": {
+          "style": 0.15877985954284668,
+          "margin": -0.07444599270820618,
+          "hit1": 0,
+          "content": 0.7659726142883301,
+          "reference_content_similarity": 0.6170268654823303
+        }
+      }
+    },
+    {
+      "artist": "feiyu30903448",
+      "adapter_seen": false,
+      "source": 58,
+      "ids": {
+        "native": "baaf8f0b8792e0ddf269",
+        "single": "1ef698e41949da8af8ff",
+        "blankstyle": "990249230eb528db7e8b"
+      },
+      "scores": {
+        "native": {
+          "style": 0.17871306836605072,
+          "margin": -0.010927528142929077,
+          "hit1": 0,
+          "content": 0.8816032409667969,
+          "reference_content_similarity": 0.48154914379119873
+        },
+        "single": {
+          "style": 0.14660312235355377,
+          "margin": -0.054756999015808105,
+          "hit1": 0,
+          "content": 0.8881815075874329,
+          "reference_content_similarity": 0.48486417531967163
+        },
+        "blankstyle": {
+          "style": 0.20582352578639984,
+          "margin": -0.009758546948432922,
+          "hit1": 0,
+          "content": 0.8765668869018555,
+          "reference_content_similarity": 0.47020676732063293
+        }
+      }
+    },
+    {
+      "artist": "feiyu30903448",
+      "adapter_seen": false,
+      "source": 59,
+      "ids": {
+        "native": "243229266652cf4e2819",
+        "single": "2ce084ab846ff33f1fb5",
+        "blankstyle": "4a0d8add4d666769b73c"
+      },
+      "scores": {
+        "native": {
+          "style": 0.1360718011856079,
+          "margin": -0.06249919533729553,
+          "hit1": 0,
+          "content": 0.7667508125305176,
+          "reference_content_similarity": 0.663290798664093
+        },
+        "single": {
+          "style": 0.2131873369216919,
+          "margin": -0.005168408155441284,
+          "hit1": 0,
+          "content": 0.7455363273620605,
+          "reference_content_similarity": 0.6460245847702026
+        },
+        "blankstyle": {
+          "style": 0.20189513266086578,
+          "margin": -0.01683005690574646,
+          "hit1": 0,
+          "content": 0.7538894414901733,
+          "reference_content_similarity": 0.7069638967514038
+        }
+      }
+    },
+    {
+      "artist": "murase48",
+      "adapter_seen": false,
+      "source": 60,
+      "ids": {
+        "native": "0343c6572431a4a8bb5c",
+        "single": "310326feca1b78bf7975",
+        "blankstyle": "c83f8e47c46040c73074"
+      },
+      "scores": {
+        "native": {
+          "style": 0.15334530174732208,
+          "margin": -0.020551636815071106,
+          "hit1": 0,
+          "content": 0.6461359262466431,
+          "reference_content_similarity": 0.6071849465370178
+        },
+        "single": {
+          "style": 0.27200227975845337,
+          "margin": 0.0169622004032135,
+          "hit1": 0,
+          "content": 0.7002923488616943,
+          "reference_content_similarity": 0.6823003888130188
+        },
+        "blankstyle": {
+          "style": 0.38409537076950073,
+          "margin": 0.1058594286441803,
+          "hit1": 0,
+          "content": 0.7025153040885925,
+          "reference_content_similarity": 0.7074281573295593
+        }
+      }
+    },
+    {
+      "artist": "murase48",
+      "adapter_seen": false,
+      "source": 61,
+      "ids": {
+        "native": "5234844abaccd2a4d4c0",
+        "single": "0112e8f5ddbe1c76ffef",
+        "blankstyle": "b9d755d2502669fc490a"
+      },
+      "scores": {
+        "native": {
+          "style": 0.24484434723854065,
+          "margin": 0.07584714889526367,
+          "hit1": 0,
+          "content": 0.8972797393798828,
+          "reference_content_similarity": 0.5047216415405273
+        },
+        "single": {
+          "style": 0.3660988509654999,
+          "margin": 0.1682557463645935,
+          "hit1": 1,
+          "content": 0.870447039604187,
+          "reference_content_similarity": 0.4433145523071289
+        },
+        "blankstyle": {
+          "style": 0.3313846290111542,
+          "margin": 0.09808710217475891,
+          "hit1": 0,
+          "content": 0.8784099817276001,
+          "reference_content_similarity": 0.486156702041626
+        }
+      }
+    },
+    {
+      "artist": "murase48",
+      "adapter_seen": false,
+      "source": 62,
+      "ids": {
+        "native": "00d0622a030111981f0f",
+        "single": "a488844971b3fcef50ca",
+        "blankstyle": "56c0bd3b482f556b2efd"
+      },
+      "scores": {
+        "native": {
+          "style": 0.11864996701478958,
+          "margin": -0.05793195217847824,
+          "hit1": 0,
+          "content": 0.7377133965492249,
+          "reference_content_similarity": 0.6594415903091431
+        },
+        "single": {
+          "style": 0.4114590883255005,
+          "margin": 0.22138181328773499,
+          "hit1": 1,
+          "content": 0.7677657604217529,
+          "reference_content_similarity": 0.7251983880996704
+        },
+        "blankstyle": {
+          "style": 0.2968277335166931,
+          "margin": 0.03859621286392212,
+          "hit1": 0,
+          "content": 0.7873082160949707,
+          "reference_content_similarity": 0.7222433090209961
+        }
+      }
+    },
+    {
+      "artist": "murase48",
+      "adapter_seen": false,
+      "source": 63,
+      "ids": {
+        "native": "81d158fed55b13b7fd19",
+        "single": "828a36f7dc40f868c51d",
+        "blankstyle": "b0cd01557d1abbbe932a"
+      },
+      "scores": {
+        "native": {
+          "style": 0.2626408338546753,
+          "margin": 0.04863402247428894,
+          "hit1": 0,
+          "content": 0.6217832565307617,
+          "reference_content_similarity": 0.5707704424858093
+        },
+        "single": {
+          "style": 0.41976723074913025,
+          "margin": 0.1624331772327423,
+          "hit1": 1,
+          "content": 0.6233832836151123,
+          "reference_content_similarity": 0.7047913074493408
+        },
+        "blankstyle": {
+          "style": 0.40119901299476624,
+          "margin": 0.12900251150131226,
+          "hit1": 1,
+          "content": 0.6184871792793274,
+          "reference_content_similarity": 0.6003906726837158
+        }
+      }
+    }
+  ],
+  "summary": [
+    {
+      "adapter_seen": true,
+      "n": 32,
+      "artists": 8,
+      "arms": {
+        "native": {
+          "style": 0.170043299527606,
+          "margin": -0.014724088367074728,
+          "hit1": 0.03125,
+          "content": 0.7523388210684061,
+          "reference_content_similarity": 0.4719630009494722
+        },
+        "single": {
+          "style": 0.3062405092641711,
+          "margin": 0.07148456899449229,
+          "hit1": 0.1875,
+          "content": 0.7638293281197548,
+          "reference_content_similarity": 0.48943489929661155
+        },
+        "blankstyle": {
+          "style": 0.29134530504234135,
+          "margin": 0.062063804594799876,
+          "hit1": 0.1875,
+          "content": 0.7551042940467596,
+          "reference_content_similarity": 0.4923351160250604
+        }
+      },
+      "versus_single": {
+        "native": {
+          "style": {
+            "delta": -0.13619720973656513,
+            "ci95": [
+              -0.19226050067300093,
+              -0.07572390292771171
+            ]
+          },
+          "hit1": {
+            "delta": -0.15625,
+            "ci95": [
+              -0.375,
+              0.0
+            ]
+          },
+          "content": {
+            "delta": -0.011490507051348686,
+            "ci95": [
+              -0.031560872215777636,
+              0.009017102979123564
+            ]
+          },
+          "margin": {
+            "delta": -0.08620865736156702,
+            "ci95": [
+              -0.1478114338882733,
+              -0.020845032297074795
+            ]
+          }
+        },
+        "blankstyle": {
+          "style": {
+            "delta": -0.014895204221829772,
+            "ci95": [
+              -0.02535670599900186,
+              -0.004856527759693567
+            ]
+          },
+          "hit1": {
+            "delta": 0.0,
+            "ci95": [
+              -0.09375,
+              0.09375
+            ]
+          },
+          "content": {
+            "delta": -0.008725034072995186,
+            "ci95": [
+              -0.031026813248172403,
+              0.012297343323007194
+            ]
+          },
+          "margin": {
+            "delta": -0.009420764399692416,
+            "ci95": [
+              -0.02329746066825464,
+              0.003805643337545912
+            ]
+          }
+        }
+      }
+    },
+    {
+      "adapter_seen": false,
+      "n": 32,
+      "artists": 8,
+      "arms": {
+        "native": {
+          "style": 0.17140420695068315,
+          "margin": -0.013631007634103298,
+          "hit1": 0.03125,
+          "content": 0.7677353173494339,
+          "reference_content_similarity": 0.5101123256608844
+        },
+        "single": {
+          "style": 0.2639298390131444,
+          "margin": 0.028252302668988705,
+          "hit1": 0.15625,
+          "content": 0.7710338812321424,
+          "reference_content_similarity": 0.5312558077275753
+        },
+        "blankstyle": {
+          "style": 0.26737192273139954,
+          "margin": 0.025995410978794098,
+          "hit1": 0.09375,
+          "content": 0.7674460671842098,
+          "reference_content_similarity": 0.5295432126149535
+        }
+      },
+      "versus_single": {
+        "native": {
+          "style": {
+            "delta": -0.09252563206246123,
+            "ci95": [
+              -0.14228696076606867,
+              -0.043042907035851403
+            ]
+          },
+          "hit1": {
+            "delta": -0.125,
+            "ci95": [
+              -0.34375,
+              0.03125
+            ]
+          },
+          "content": {
+            "delta": -0.0032985638827085495,
+            "ci95": [
+              -0.016506243497133255,
+              0.012708410294726448
+            ]
+          },
+          "margin": {
+            "delta": -0.041883310303092,
+            "ci95": [
+              -0.09082131437025964,
+              0.003131225937977433
+            ]
+          }
+        },
+        "blankstyle": {
+          "style": {
+            "delta": 0.0034420837182551622,
+            "ci95": [
+              -0.02008478669449687,
+              0.029895682353526354
+            ]
+          },
+          "hit1": {
+            "delta": -0.0625,
+            "ci95": [
+              -0.21953124999999973,
+              0.09375
+            ]
+          },
+          "content": {
+            "delta": -0.003587814047932625,
+            "ci95": [
+              -0.010198578238487244,
+              0.0023886748589575266
+            ]
+          },
+          "margin": {
+            "delta": -0.0022568916901946068,
+            "ci95": [
+              -0.02755592466564849,
+              0.027403718570712915
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "seconds": 6.875656604766846,
+  "limitations": [
+    "Input and scoring works have disjoint families, but style metric shares conditioner encoder",
+    "Adapter-unseen only; encoder-unseen not established",
+    "16-way gallery, not full artist classifier",
+    "Raw reference similarity is a leakage proxy, not verified attribute leakage",
+    "Small dev panel, no sealed test or human preference evidence"
+  ]
+}

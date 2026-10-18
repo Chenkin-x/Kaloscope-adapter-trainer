@@ -1,0 +1,32 @@
+{
+  "gallery": {
+    "artist_a": [
+      "../data/eval_a_work1.png",
+      "../data/eval_a_work2.png"
+    ],
+    "artist_b": [
+      "../data/eval_b_work1.png",
+      "../data/eval_b_work2.png"
+    ]
+  },
+  "cases": [
+    {
+      "id": "a_garden_seed17",
+      "artist": "artist_a",
+      "area": 512,
+      "aspect": "square",
+      "cohort": "adapter_unseen",
+      "image": "../runs/a_garden.png",
+      "input_reference": "../data/input_a.png"
+    },
+    {
+      "id": "b_garden_seed17",
+      "artist": "artist_b",
+      "area": 512,
+      "aspect": "square",
+      "cohort": "adapter_unseen",
+      "image": "../runs/b_garden.png",
+      "input_reference": "../data/input_b.png"
+    }
+  ]
+}

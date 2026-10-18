@@ -1,0 +1,42 @@
+{
+  "backend": {
+    "name": "moss",
+    "model": "../models/MOSS-Image-Base"
+  },
+  "encoder": "../models/z3_artist_v1",
+  "manifest": "../examples/manifest.json",
+  "cache": "../cache/moss",
+  "output": "../runs/moss-z3",
+  "resolution": 512,
+  "encoder_resolution": 512,
+  "text_max_length": 128,
+  "initial_checkpoint": null,
+  "adapter": {
+    "feature_dim": 256,
+    "adapter_width": 256,
+    "style_tokens": 8,
+    "adapter_banks": 4
+  },
+  "training": {
+    "steps": 2048,
+    "global_batch": 16,
+    "micro_batch": 1,
+    "peak_lr": 0.0001,
+    "min_lr": 1e-05,
+    "warmup_steps": 20,
+    "weight_decay": 0.01,
+    "clip_grad": 1.0,
+    "text_dropout": 0.5,
+    "reference_dropout": 0.1,
+    "time_shift": 1.0,
+    "seed": 20261007,
+    "sampling": "artist_balanced",
+    "save_every": 250,
+    "eval_every": 250
+  },
+  "inference": {
+    "steps": 50,
+    "text_cfg": 3.0,
+    "style_guidance": 6.0
+  }
+}

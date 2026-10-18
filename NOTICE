@@ -1,0 +1,7 @@
+This distribution includes DINOv3-derived inference code.
+Copyright (c) Meta Platforms, Inc. and affiliates.
+DINOv3 materials remain subject to the DINOv3 License Agreement in LICENSE.md.
+
+The vendored MOSS-Image pipeline is distributed under Apache License 2.0.
+See licenses/MOSS-Apache-2.0.txt and docs/PROVENANCE.md.
+Model weights and datasets are not included.
