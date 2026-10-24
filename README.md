@@ -59,8 +59,6 @@ python -m kaloscope_style.infer \
 ```
 
 本包的 `krea2_z3.json` 是 **Z3 结构与核心参数的从零训练示例**：2048 步、20 步 warmup。
-它不是历史 Z3 step2024 的逐位复现。历史 Z3 是从 AI0 step1000 **继承权重和 AdamW** 再训练
-1024 步；Z3C、全量 step12006 和后来的多分辨率检查点又是不同阶段。
 `initial_checkpoint` 只加载适配器权重并新建 AdamW；`--resume` 才恢复本包完整训练状态。
 
 ## 已发布模型
@@ -91,7 +89,7 @@ python scripts/verify_release.py
 python -m build
 ```
 
-这里的小模型测试不下载权重。Krea2 原生测试需要将 Musubi 的 `src` 加入 `PYTHONPATH`；
+Krea2 原生测试需要将 Musubi 的 `src` 加入 `PYTHONPATH`；
 否则该项明确显示 skip。完整真实模型仍需先在目标 GPU 上执行 3 步预检和小规模成图。
 当前发布验证见 [VALIDATION.md](docs/VALIDATION.md)。
 
